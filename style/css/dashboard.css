@@ -1,0 +1,188 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300);
+
+html,body{
+	font-family: 'Raleway';
+	background-color:#E1E1E1;
+}
+a{text-decoration:none !important;outline: 0 !important;} 
+
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#wrapper.toggled { /*kondisi ketika wrapper memiliki class toggled maka wrapper akan melebar ke kiri*/
+    padding-left: 250px;
+}
+
+#sidebar-wrapper {
+    z-index: 1000;
+    position: fixed;
+    left: 250px;
+    width: 0;
+    height: 100%;
+    margin-left: -250px;
+    overflow-y: auto;
+    background: #333;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+	box-shadow:inset -2px 0px 5px 0px #000;
+	-webkit-box-shadow:inset -2px 0px 5px 0px #000;
+}
+
+#wrapper.toggled #sidebar-wrapper {
+    width: 250px;
+}
+
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 15px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-right: -250px;
+}
+
+/* Sidebar Styles */
+
+.sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-nav li{
+	text-decoration:none;
+	display: block;
+}
+.sidebar-nav .parent{
+    text-indent: 20px;
+    line-height: 40px;
+    color: #fff;
+	overflow:hidden; /*menyembunyikan class tree ketika toggle*/
+}
+.sidebar-nav .parent ul{ /*menghilangkan padding spasi ul*/
+	padding:0;
+}
+.sidebar-nav .child{
+	text-indent: 20px;
+}
+.sidebar-nav li a{ 
+	text-decoration:none; 
+	color: #fff;
+}
+
+.sidebar-nav .active{
+	/*background-color:#3A3A3A;*/
+	background:rgba(0,0,0,0.2);
+}
+.sidebar-nav .parent:hover {
+	background:rgba(0,0,0,0.3);
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+    height: 65px;
+    font-size: 18px;
+    line-height: 60px;
+	padding-left:20px;
+	color: #999999;
+}
+
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 250px;
+    }
+    #sidebar-wrapper {
+        width: 250px;
+    }
+/*	DIATAS 2 FUNGSI CSS YANG MENGATUR SIDEBAR AKAN HIDDEN KETIKA MIN WIDTH 768PX*/
+
+    #wrapper.toggled {
+        padding-left: 0;
+    }
+
+
+    #wrapper.toggled #sidebar-wrapper {
+        width: 0;
+    }
+
+    #page-content-wrapper {
+        padding: 20px;
+        position: relative;
+    }
+
+    #wrapper.toggled #page-content-wrapper {
+        position: relative;
+        margin-right: 0;
+    }
+}
+
+
+
+.child{
+	background:rgba(0,0,0,0.1);
+}
+
+.child:Hover{
+	background:rgba(0,0,0,0.2);
+}
+
+.toggled-menu-tree{
+}
+
+.getdata{
+	padding-left:25%;
+	padding-top:25%;
+}
+
+
+
+/* NAV START HERE */
+.nav {
+	background-color:#CCCCCC;
+	height:40px;
+	width:100%;
+}
+
+.nav .toggle-btn{
+	width:46px;
+	padding-top:6px;
+	padding-bottom:5px;
+	float:left;
+}
+
+
+
+.nav .icon-bar{
+	display: block;
+	width: 25px;
+	height: 2px;
+	background-color: #333;
+	border-radius: 1px;
+	margin-top:5px;
+	margin-left:10px;
+}
+
+.nav .divider-vertical{
+	float:left;
+	background-color:#333333;
+	height:100%;
+	border-left:1px solid #999;
+	border-right:1px solid #FFF;
+}

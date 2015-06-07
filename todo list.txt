@@ -1,0 +1,37 @@
+============================= keiven shop chart 1.0 ==================================
+product-view-list.blade.php
+- tambah penanda ketika ada wishlist (url: http://keiven.dev/product/men) (progress)
+- redirect product_id ke detail dengan mengenkripsi value product_id | ganti key enkripsi (done) 
+- sort by latest date (done)
+- pagination 9 item 1 halaman (done)
+- ubah tampilan paginate, sesuai tema, posisi paginate selalu dibawah (done) 
+
+product-detail.blade
+
+- redirect dari product-view-list, tampilkan detail product (url: http://keiven.dev/product/men/detail/{id}) (done | butuh perbaikan)
+- related items, random related item, limit 4 item dan not in product yang sedang ditampilkan (done)
+- related item wishlist and open item (later)
+
+adm-login
+- buat admin login page (done)
+- admin log ip and date login (later)
+
+adm dashboard
+- buat admin dashboard (progress)
+
+login auth
+- ubah login dan logout attempt, session akan dibuat otomatis oleh laravel menggunakan Auth::login (done)
+- remember login, menggunakan remember_token (done)
+- menggunakan multi-auth, karena ada table admin dan user(done)
+- filter register dan login page, hanya ditampilkan ketika user belum login (progress)
+general
+- search produk (done)
+- search text, found or not found (later)
+- cart (later)
+- admin page (later)
+- upload product (later)
+- facebook connect ke login (later)
+- profile user (later)
+- tentang kami (later)
+- kontak (later)
+- login remember me (later)

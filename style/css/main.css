@@ -1,0 +1,550 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300);
+
+html,body{
+	font-family: 'Raleway';
+	background-color:#E1E1E1;
+}
+
+.container{
+	width:100%;
+}
+
+.main-container{
+	background-color:#FFF;
+	padding-top:70px;
+	padding-bottom:70px;
+	width:90%;
+	
+	/* centered */
+	float: none;
+	margin:0 auto;
+	/*width:1024px;
+	min-width:1024px;*/
+}
+
+.centered{
+	float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+no_mrgn{
+	padding:0 auto;
+	margin:0 auto;
+}
+
+
+
+.error{
+	color:#F00;
+}
+
+.divider-vertical {
+	height: 30px;
+	margin-top:12px;
+	/*border-right: 1px solid #FFF;*/
+	border-left: 1px solid #CCC;
+}
+
+.divider{
+	width:100%;
+	/* |start| centered */
+	float:none;
+	margin:0 auto;
+	/* |end|   centered */
+	border-bottom:1px solid #ccc;
+	margin-bottom:20px;
+	margin-top:20px;
+}
+/*************************************  NAVBAR MENU HEADER *****************************************************/
+.container > div > img{
+	width:200px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto }
+	
+}
+
+.navbar-center{
+	float:none;
+	margin:auto;
+	width:100%; /*lebar menu*/
+	
+} 
+.navbar{
+	background:rgba(255,255,255,0.9);
+	border-bottom:none;
+}
+
+.navbar-center > ul{
+	padding-top:30px;
+} 
+
+
+/*MENGKONDISIKAN MEDIA KETIKA MAX-WIDTH 768PX MAKA NAVBAR AKAN SELALU DITENGAH*/
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+
+/*MENGKONDISIKAN MEDIA KETIKA MAX-WIDTH 1133PX MAKA CLASS AKAN BERUBAH*/
+@media (max-width: 768px){
+	.divider-vertical {
+		height: 0;
+		margin-top:0;
+		/*border-right: 1px solid #FFF;*/
+		border-left:none;
+	}
+}
+
+@media (max-width: 373px){
+	.container > div > img{
+		width:100px;
+		
+	}
+}
+
+
+
+.container .navbar-center a{
+	color:#666;
+	font-size:15px;
+}
+.container .navbar-center a:Hover{ /*memberi style dan warna pada saat hover */
+	background-color:#FFF;
+	color:#333;
+	border-bottom:2px solid #333;
+}
+
+/************************************* |END OF| NAVBAR MENU HEADER *****************************************************/
+
+
+
+/*************************************  NAV BAR DROPDOWN SEARCH CUSTOM *****************************************************/
+
+.white {  
+  color: #fff;  /*ubah warna glyphicon */
+}
+
+.form-control{
+	height:28px; /*ubah ukuran form search*/
+}
+
+.dropdown-menu {
+  width:300px;
+  background: rgba(46, 51, 56, 0.1)!important;
+}
+
+.input-group{
+	width:280px;
+	background: rgba(46, 51, 56, 0)!important;
+}
+
+.search-custom{
+	border:none;
+	box-shadow:none !important;
+	background: rgba(0, 0, 0, 0)!important;
+}
+.search-custom:focus,search-custom:active{
+	outline: none;
+	box-shadow:none !important;
+	background: rgba(0, 0, 0, 0)!important;
+}
+
+
+/******************************| END OF | NAV BAR DROPDOWN SEARCH CUSTOM ********************************************/
+
+/*******************************************  HOME IMAGE VIEW  *****************************************************/
+#cntr_no_mrgn div,.footer{
+	margin:0;
+	padding:0;
+}
+
+.image_cover_size{
+	background-size:cover;
+}
+
+
+
+/*******************************************|END OF|  HOME IMAGE VIEW  *****************************************************/
+
+
+/*******************************************  PRODUCT DETAIL VIEW  *****************************************************/
+.pd-main{padding:0;}
+.pd-image-container{padding-left:0;}
+
+
+
+
+.pd-description-container{padding:0;}
+.pd-description-container div{
+	border-bottom:1px solid #CCCCCC;
+	padding-top:3px;padding-left:0;padding-right:0;padding-top:14px;padding-bottom:5px;
+}
+.pd-description-container .pd-name{
+	padding-top:0;
+}
+.pd-image-container .pd-image{padding:0;}
+.pd-image-container .pd-image img{
+	width:100%;
+	padding-bottom:10px;
+}
+.pd-image-list{
+	padding-left:0;
+	padding-right:0;
+}
+
+/*************PD CAROUSEL***************/
+
+.carousel-inner .item img{
+	width:100%;
+}
+
+.pd-image-list .img-center{
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+
+.pd-image-list img{
+	padding-bottom:20px;
+	padding-left:6px;
+	padding-right:6px;
+}
+.pd-icon{float:right;}
+.pd-tree li, .pd-tree{padding:0;list-style-type: none;}
+.pd-tree li ul li{list-style-type:circle;}
+/************END PD CAROUSEL*************/
+
+/********** PD-FOOTER **************/
+.pd-footer, .pd-footer p{
+	padding-left:0;padding-right:0;
+}
+.pd-footer p{
+	border-bottom:1px solid #999999;
+}
+.pd-footer img{
+	width:100%;
+	padding-bottom:10px;
+}
+
+/***************************************** |END|  PRODUCT DETAIL VIEW  *****************************************************/
+
+
+/*******************************************  PRODUCT VIEW  *****************************************************/
+.pv-container{padding-left:15px;padding-right:15px;}
+.pv-container div{padding:0;}
+.pv-container img{width:100%;} 	
+.pv-container .pv-blur-img{
+	filter: blur(3px);
+	-webkit-filter: blur(3px);
+	-moz-filter: blur(3px);
+	-webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.pv-container .pv-trans-img{
+	text-align:center;
+	position:absolute;
+	top:0;
+	width:100%;
+	height:100%;
+	z-index:1000;
+	background:rgba(255,255,255,0);
+	-webkit-transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-transition:all 0.5s ease;
+}
+.pv-container .pv-trans-img:Hover{background:rgba(255,255,255,0.7);}
+.pv-container .pv-trans-img p{
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+	margin-top:80%;
+	margin-left:15%;
+	font-size:36px;
+	font-weight:100;
+	color:#000;
+	opacity:0;
+	width:70%;
+	-webkit-transition:all 0.5s;
+	-moz-transition:all 0.5s;
+	-transition:all 0.5s;
+}
+.pv-container .pv-trans-img:Hover p{opacity:1;margin-top:30%;}
+
+/*******************************************  |END|PRODUCT VIEW  *****************************************************/
+
+
+/*******************************************  PRODUCT VIEW LIST  *****************************************************/
+.pvl-container{padding-left:15px;padding-right:15px;}
+.pvl-container div{padding:0;}
+.pvl-container img{width:100%;} 	
+.pvl-container .pvl-text{
+	text-align:center;
+	width:100%;
+	height:80px;
+	-webkit-transition:all 0.5s ease;
+	-moz-transition:all 0.5s ease;
+	-transition:all 0.5s ease;
+}
+.pvl-container .pvl-text .pvl-name{padding-top:10px; font-weight:800;}
+.pvl-container .pvl-text .pvl-price{
+	font-size:15px;
+	font-weight:100;
+	color:#FF2F2F;	
+	width:100%;
+}
+.pvl-container .pvl-link-container{
+	position:absolute;
+	top:0;
+	width:100%;
+	height:100%;
+	background:rgba(0,0,0,0);
+	z-index:1000;
+	text-align:center;
+	color:transparent;
+	font-weight:bold;
+}
+.pvl-container .pvl-link-container .txt-center{margin-top:40%;}
+.pvl-container .pvl-link-container .txt-center a{ text-decoration:none; color:transparent;} 
+.pvl-container .pvl-link-container .txt-center p{ border-bottom:0px dashed #000;border-top:0px dashed #000; padding-bottom:5px; margin-bottom:20px; padding-top:5px;display:inline-block;}/*inline block remove line break*/
+.pvl-container .pvl-link-container:Hover{background:rgba(255,255,255,0.4);color:black;}
+.pvl-container .pvl-link-container:Hover  > .txt-center a{color:#000;}
+.pvl-container .pvl-link-container:Hover  > .txt-center p{border-bottom:2px dashed #000; border-top:2px dashed #000;}/*Hover pada div berbeda > untuk dibawahnya, + untuk setara*/
+.pvl-container .pvl-link-container .txt-center p:Hover{border-bottom:2px solid #000; border-top:2px solid #000;}
+/*******************************************  |END|PRODUCT VIEW LIST *****************************************************/
+
+/*******************************************  AUTH VIEW  *****************************************************/
+.auth-container{margin:0;}
+.auth-head{text-align:center; font-size:32px;text-shadow:none;}
+.auth-login, .auth-register{
+	height:350px;
+	padding-left:0;
+	padding-right:0;
+}
+.auth-login div, .auth-register div{
+	min-height:65px;
+}
+.auth-login{
+	border-right:1px solid #000000;
+}
+.auth-login .form-control, .auth-register .form-control{
+	height:40px;
+	border-radius:0;
+}
+.auth-login .login-rmmber{}
+.auth-login .btn-login{
+	background-color:#fff;
+	border-radius:0px;
+	border:1px solid #000;
+	width:45%;
+}
+.auth-login .login-head, .auth-register .reg-head{border-bottom:1px solid #000000;margin-bottom:0;}
+.auth-login .al-button,.auth-register .ar-button{
+	position:absolute;
+	bottom:0;
+}
+.auth-register .ar-button .ar-btn-reg{
+	background-color:#fff;
+	border-radius:0px;
+	border:1px solid #000;
+	width:45%;
+	float:left;
+}
+.auth-register .ar-button .ar-btn-fb{
+	background-color:#4a6ea9;
+	border-radius:0px;
+	color:#FFF;
+	float:right;
+	width:45%;
+}
+.auth-register .ar-button .ar-btn-reg:Hover, .auth-login .btn-login:Hover{background-color:#000;color:#FFFFFF;}
+@media(max-width:992px){
+	.auth-container{max-width:500px;margin:0;padding:0;float: none;display: block;margin-left: auto;margin-right: auto;}
+	.auth-login{border-right:none;}
+	.auth-login .btn-login{width:100%;}
+	.auth-register .ar-button .ar-btn-reg,.auth-register .ar-button .ar-btn-fb{width:45%;}
+	.auth-login .al-button,.auth-register .ar-button{position:relative;}
+}
+
+/***************** -= ERROR DIALOG REGISTER =- *************************/
+.auth-login .al-input-dialog{
+	color:#fff;
+	border-radius:4px;
+	background:rgba(0,0,0,0.5);
+	position:absolute;
+	top:49px;
+	z-index:1;
+	min-height:40px;
+}
+.auth-login .al-input-dialog p{padding-left:10px; padding-top:10px; padding-right:10px;}
+.auth-login .dialog-right{left:52%;}
+.arrow-up {
+	position:absolute;
+	top:-7;left:5;
+	width: 0; 
+	height: 0; 
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 7px solid rgba(0,0,0,0.5);
+}
+/*******************************************  |END|AUTH VIEW *****************************************************/
+
+/*******************************************  AUTH REGISTER VIEW  *****************************************************/
+.auth-register-view`{
+	height:350px;
+	padding-left:0;
+	padding-right:0;
+}
+.auth-register-view div{
+	min-height:65px;
+}
+.auth-register-view .form-control{
+	height:40px;
+	border-radius:0;
+	width:48%;
+	float:left;
+}
+.auth-register-view .arv-float-right{
+	float:right;
+}
+.auth-register-view .btn-reg{
+	background-color:#fff;
+	border-radius:0px;
+	border:1px solid #000;
+	width:50%;
+	float: none;display: block;margin-left: auto;margin-right: auto;
+}
+.auth-register-view .arv-head{height:50px;}
+.auth-register-view .arv-head p{border-bottom:1px solid #000000;}
+@media(max-width:992px){
+	.auth-register-view .arv-head{padding-bottom:0;}
+}
+.auth-register-view .btn-group{
+	height:40px;
+	width:48%;
+	border:1px solid #CCCCCC;
+}
+.auth-register-view .btn-group a{
+	width:100%;
+	color:#666;
+	height:40px;
+	padding-top:9px;
+}
+
+.auth-register-view .input-error{
+	border:1px solid #FF0033;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(240,8,70,1);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(240,8,70,1);
+	box-shadow: 0px 0px 5px 0px rgba(240,8,70,1);
+	background-color:#FECBD6;
+}
+/***************** -= ERROR DIALOG REGISTER =- *************************/
+.auth-register-view .arv-input-dialog{
+	color:#fff;
+	border-radius:4px;
+	background:rgba(0,0,0,0.5);
+	position:absolute;
+	top:49px;
+	z-index:1;
+	min-height:40px;
+}
+.auth-register-view .arv-input-dialog p{padding-left:10px; padding-top:10px; padding-right:10px;}
+.auth-register-view .dialog-right{left:52%;}
+.arrow-up {
+	position:absolute;
+	top:-7;left:5;
+	width: 0; 
+	height: 0; 
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 7px solid rgba(0,0,0,0.5);
+}
+
+/***************** -= DROPDOWN REGISTER =- *************************/
+.auth-register-view .arv-combo-input{width:0;height:0; visibility:hidden;}
+.auth-register-view .btn-group a{text-align:left;}
+.auth-register-view .btn-group .caret {
+	display:block;
+	position:absolute;
+	right:10px;
+	top:20px;
+}
+
+.auth-register-view .arv-dropdown {
+  width:100%;
+  background: rgba(255, 255, 255, 1)!important;
+}
+/*******************************************  |END|AUTH REGISTER VIEW *****************************************************/
+
+
+/****************************************** FOOTER ****************************************************/
+.footer{
+	background-color:#333;
+}
+
+.footer > .container{
+	color:#FFF;
+	background-color:#333;
+	width:90%;
+	height:200px;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.footer ul, .footer li{
+	padding:0;
+    list-style-type: none;
+}
+.footer-btn{
+	float:right;
+}
+
+.row .footer-divider{
+	margin-bottom:10px;
+	margin-top:10px;
+	border-bottom:1px solid #FFF;
+	width:100%;
+}
+.footer .row .row-content{
+	height:100%;
+}
+
+@media(min-width:768px){
+	.row .footer-divider{
+		margin-bottom:0px;
+		margin-top:0px;
+		border-bottom:0px solid #FFF;
+		width:100%;
+		padding-bottom:20px;
+	}
+	.footer-btn{
+		display:none;
+	}
+}
+
+
+/****************************************|END| FOOTER *************************************************/
+
+.tes{background-color:#069;}
+.tes2{background-color:#F00;}
+.tes3{background-color:#0F0;}
+.tes4{background-color:#CF0;}
+.tes5{background-color:#90C;}
+.tes6{background-color:#9C9;}
+.tes7{background-color:#6C6;}
+.tes8{background-color:#333;}
+.tes9{background-color:#336;}
+
+
+.hidden{
+	display:none;
+}
+
+
+

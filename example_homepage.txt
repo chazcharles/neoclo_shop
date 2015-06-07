@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head>
+<script type="text/javascript">
+window.google_analytics_uacct = "UA-891770-5";
+</script>
+<title>detikcom : situs warta era digital</title> 
+<script src="http://www.detik.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+    urchinTracker();
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-891770-5']);
+  _gaq.push(['_setDomainName', 'auto']);
+  _gaq.push(['_setRemoteServerMode']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']); 
+ 
+   var _gaq1 = _gaq || [];
+  _gaq1.push(['_setAccount', 'UA-891770-118']);
+  _gaq1.push(['_setDomainName', 'auto']);
+  _gaq1.push(['_setRemoteServerMode']);
+  _gaq1.push(['_setAllowLinker', true]);
+  _gaq1.push(['_trackPageview']);
+
+
+  var _gaq2 = _gaq || [];
+  _gaq2.push(['_setAccount', 'UA-891770-59']);
+  _gaq2.push(['_setDomainName', 'auto']);
+  _gaq2.push(['_setRemoteServerMode']);
+  _gaq2.push(['_setAllowLinker', true]);
+  _gaq2.push(['_trackPageview']);
+
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"JGO+j1a0CM00q/", domain:"detik.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=JGO+j1a0CM00q/" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="description" content="detik.com situs warta era digital" /> 
+<meta http-equiv="Copyright" content="detikcom" /> 
+<link href="http://detik.net.id/detik/image/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<meta name="author" content="Agranet Multicitra Siberkom" /> 
+<meta http-equiv="imagetoolbar" content="no" /> 
+<meta name="language" content="Indonesia" /> 
+<meta name="generator" content="Jahex" /> 
+<meta name="revisit-after" content="7" /> 
+<meta name="webcrawlers" content="all" /> 
+<meta name="rating" content="general" /> 
+<meta name="spiders" content="all" /> 
+<meta name="robots" content="all" /> 
+<meta http-equiv="refresh" content="900;url=http://www.detik.com" />
+<link rel="alternate" type="application/rss+xml" title="Detik.com" href="http://rss.detik.com/index.php/detikcom" /> 
+
+<link href="css/detik_frame_2013.css?2015041712" rel="stylesheet" type="text/css" /><link href="css/detik.footer_2013.css?2015041712" rel="stylesheet" type="text/css" /><link href="css/detik.topbar_2013.css?2015041712" rel="stylesheet" type="text/css" /><link href="css/detikads_2013.css?2015041712" rel="stylesheet" type="text/css" /><link href="css/tmba.css?2015041712" rel="stylesheet" type="text/css" /><link href="css/detikcom.style.css?2015041712" rel="stylesheet" type="text/css" /><link href="css/detikcom.style_2013.css?2015041712" rel="stylesheet" type="text/css" />
+
+<script type='text/javascript'>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+	var gads = document.createElement('script');
+	gads.async = true;
+	gads.type = 'text/javascript';
+	var useSSL = 'https:' == document.location.protocol;
+	gads.src = (useSSL ? 'https:' : 'http:') +
+	'//www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+
+<script type='text/javascript'>
+	googletag.cmd.push(function() {
+	googletag.defineSlot('/4905536/ShowcaseRight5', [300, 250], 'div-gpt-ad-1341548739361-0').addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+	googletag.enableServices();
+	});
+</script>
+<script type='text/javascript' src='http://newopenx.detik.com/delivery/fl.js'></script>
+ <link id="navCSSURL" href="//cdn.detik.net.id/libs/dc/v1/css/nav.css" rel="stylesheet" type="text/css">
+</head> 
+<body class="bg_ads_img">
+
+<!-- new navbar -->
+<div id="framebar_new">
+    <div class="new_container">
+        <div class="ico_detik fm_select_area" id="ico_detik">
+            <img src="//cdn.detik.net.id/libs/dc/v1/image/favicon_detikcom.png">
+        </div>
+        <div class="new_search">
+            <form action="http://search.detik.com/search?">
+                <input name="query" type="text" class="text">
+                <input type="hidden" name="source" value="dcnav">
+                <input type="submit" value="" class="btn_s">
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="zone_1"></div> <!-- scrolltracker 1 (main) -->
+
+<!-- HEADER --> 
+<script type="text/javascript" src="http://detik.net.id/detik/libraries/jquery/1.8.1/jquery.min.js"></script>
+<script>
+(function(){
+f = 'dc', w = window, d = document;
+w['DTKCObj'] = {ts:Date.now(),args:arguments};
+w[f] = w[f] || function () {
+(w[f].q = w[f].q || []).push(arguments)
+};
+var dc = d.createElement('script');
+dc.async = 1;
+dc.src = 'https://cdn.detik.net.id/libs/dc/v1/embed.js';
+(d.getElementsByTagName('head')[0] ||
+d.getElementsByTagName('body')[0]).appendChild(dc);
+})({navSelector:'#framebar_new', navInsertMethod:'replaceWith'});
+var params = new Array();
+params["acctype"] = "acc-wpdetikcom";
+params["subacctype"] = "web";
+params["createddate"] = "-1";
+params["articleid"] = "-";
+params["kanalid"] = "-";
+dc('detikTracker', params);
+</script>
+
+ <style >
+.skinad_1 a, .skinad_2 a {
+margin-top: 0 !important;
+}
+</style>
+<!--S:SKIN AD--> 
+<div id="skinad">
+    <div class="skinad_c">
+	    <div class="skinad_1"  style="left:-140px; margin-top:-44px">
+	        <IFRAME SRC="https://ad.doubleclick.net/adi/N5295.138259.DETIK.COM/B8546313.116149709;sz=140x660;ord=[timestamp]?" WIDTH=140 HEIGHT=660 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/adj/N5295.138259.DETIK.COM/B8546313.116149709;abr=!ie;sz=140x660;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="https://ad.doubleclick.net/jump/N5295.138259.DETIK.COM/B8546313.116149709;abr=!ie4;abr=!ie5;sz=140x660;ord=[timestamp]?">
+<IMG SRC="https://ad.doubleclick.net/ad/N5295.138259.DETIK.COM/B8546313.116149709;abr=!ie4;abr=!ie5;sz=140x660;ord=[timestamp]?" BORDER=0 WIDTH=140 HEIGHT=660 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME><div id='beacon_369df69d1f' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11561&amp;campaignid=4214&amp;zoneid=332&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=369df69d1f' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>	    </div>
+	
+	    <div class="skinad_2"  style="right:-140px;margin-top:-44px">
+	        <IFRAME SRC="https://ad.doubleclick.net/adi/N5295.138259.DETIK.COM/B8546313.116149709;sz=140x660;ord=[timestamp]?" WIDTH=140 HEIGHT=660 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/adj/N5295.138259.DETIK.COM/B8546313.116149709;abr=!ie;sz=140x660;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="https://ad.doubleclick.net/jump/N5295.138259.DETIK.COM/B8546313.116149709;abr=!ie4;abr=!ie5;sz=140x660;ord=[timestamp]?">
+<IMG SRC="https://ad.doubleclick.net/ad/N5295.138259.DETIK.COM/B8546313.116149709;abr=!ie4;abr=!ie5;sz=140x660;ord=[timestamp]?" BORDER=0 WIDTH=140 HEIGHT=660 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME><div id='beacon_a3066bd0c0' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11561&amp;campaignid=4214&amp;zoneid=331&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=a3066bd0c0' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>	    </div>
+    </div>
+</div>
+<style>
+  .skinad_1 a, .skinad_2 a {
+  width:auto;
+  }
+</style>
+<!-- E:SKIN AD -->
+
+<!--S:TOP BANNER-->
+<div class="top_banner_bar">
+<div id="top_banner" align="center">
+	<div class="container_topbanner" style="margin-top:16px">
+		<IFRAME SRC="https://ad.doubleclick.net/adi/N5295.138259.DETIK.COM/B8546313.116152451;sz=980x50;ord=[timestamp]?" WIDTH=980 HEIGHT=50 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/adj/N5295.138259.DETIK.COM/B8546313.116152451;abr=!ie;sz=980x50;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="https://ad.doubleclick.net/jump/N5295.138259.DETIK.COM/B8546313.116152451;abr=!ie4;abr=!ie5;sz=980x50;ord=[timestamp]?">
+<IMG SRC="https://ad.doubleclick.net/ad/N5295.138259.DETIK.COM/B8546313.116152451;abr=!ie4;abr=!ie5;sz=980x50;ord=[timestamp]?" BORDER=0 WIDTH=980 HEIGHT=50 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME><div id='beacon_403968ac93' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11560&amp;campaignid=4214&amp;zoneid=329&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=403968ac93' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>	<span class="top_banner_close"><img src="http://detik.net.id/img-assets-slot/buttonclose_v1/btn_close.gif" /></span>
+	</div>
+</div> 
+
+<div style="margin-bottom:-63px" class="top_bottom_banner"></div>
+<style>
+.header_top .head {
+    padding: 75px 0 0 !important
+} 
+</style>
+</div>
+</div>
+<!--E:TOP BANNER-->
+
+<!-- content  --> 
+<div align="center" class="maincontainer">
+
+    <div class="header_top" id="top">
+            <div class="head">
+         <div style="z-index:2;">
+             <a href="http://www.detik.com" style="border:0;">
+                 <img alt="detikcom" class="logodetik" src="http://www.detik.com/image/logodetikcom.png">
+             </a>
+         </div>
+         <div style="float:right;" class = "cad_lb">
+                          <!-- S:LEADERBOARD -->
+<a href='http://newopenx.detik.com/delivery/ck.php?oaparams=2__bannerid=11597__zoneid=316__cb=1e41f26cfa__oadest=http%3A%2F%2Fauto2000.co.id%2Fsemarak-toyota-di-seluruh-cabang-dealer-auto2000%2F%3Futm_source%3DDetik%26utm_medium%3DLeaderboard%26utm_term%3DDesktop%26utm_campaign%3DAuto2000%2520Semarak-Auto-2000-April-2015' target='_blank'><img src='http://newopenx.detik.com/images/bb34bebf4ad15f7bdd8c6ee715476927.gif' width='728' height='90' alt='' title='' border='0' /></a><div id='beacon_1e41f26cfa' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11597&amp;campaignid=4223&amp;zoneid=316&amp;loc=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=1e41f26cfa' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div><!-- E:LEADERBOARD--> 
+         </div>
+         <div class="clearfix"></div>
+    </div>
+        <span style="clear:both;height:1px;"></span>
+    
+
+    </div>
+    <div class="container">
+        <div class="header_top" id="top">
+            <div class="menu">
+<ul id="menu">
+    <li><a href="http://news.detik.com/?ctn">detikNews</a></li>
+    <li><a href="http://finance.detik.com/?ctf">detikFinance</a></li>
+    <li><a href="http://hot.detik.com/?cth">detikHot</a></li>
+    <li><a href="http://inet.detik.com/?cti">detiki-Net</a></li>
+    <li><a href="http://sport.detik.com/?cts">detikSport</a></li>
+    <li><a href="http://oto.detik.com/?cto">detikOto</a></li>
+    <li><a href="http://food.detik.com/?ctd">detikFood</a></li>
+    <li><a href="http://health.detik.com/?ctl">detikHealth</a></li>
+    <li><a href="http://wolipop.detik.com/?ctwo">Wolipop</a></li>
+    <li><a href="http://tv.detik.com/?ctt">detikTV</a></li>
+    <li><a href="http://news.detik.com/indeks/?ctindeks">Indeks</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+<div class="menu2">
+<a href="http://rewards.detik.com/?ctdr">detikrewards</a> &middot; 
+<a href="http://detik.com/mostpopular?utm_source=navbarwpdetik&utm_medium=button&utm_campaign=navbar%20wp%20detikcom">Most Popular</a> &middot; 
+<a href="http://sport.detik.com/sepakbola/?ctb">Sepakbola</a> &middot; 
+<a href="http://blogdetik.com/?ctbl">Blog</a> &middot; 
+<a href="http://forum.detik.com/?ctfr">Forum</a> &middot; 
+<a href="http://www.mytrans.com/?ctmy">myTrans</a> &middot; 
+<a href="http://travel.detik.com/?cttr">Travel</a> &middot; 
+<a href="http://apps.detik.com/?ctapp">Apps</a> &middot; 
+<a href="http://foto.detik.com/?ctp">detikFoto</a> &middot; 
+<a href="http://majalah.detik.com/">Majalah detik</a> &middot; 
+<a href="http://iklanbaris.detik.com/?ctib">Iklan Baris</a> &middot; 
+<a target="_blank" href="http://pasangmata.detik.com">Pasangmata</a> &middot; 
+<a href="http://event.detik.com/">detikEvent</a> &middot; 
+<a href="http://newopenx.detik.com/delivery/ck.php?oaparams=2__bannerid=11506__zoneid=1233__cb=9b1154d7ea__oadest=http%3A%2F%2Ffinance.detik.com%2Fojk"class="ojk" target="_blank">
+       OJK
+      </a><div id='beacon_9b1154d7ea' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11506&amp;campaignid=4194&amp;zoneid=1233&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=9b1154d7ea' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div>
+        </div>
+        <div id="detikcontent">
+		<style type="text/css">
+#billboard_banner {
+    width: 980px;
+}
+.box_hl {
+    margin-top: 0px !important;
+}
+.kanan{
+    padding-top: 0px !important;
+}
+
+</style>
+<div id="billboard_banner">
+    <div id="billboard_expanded_container"  >
+        <span class="billboard_close" style="cursor:pointer; margin-left:920px; display:block;">
+            <img src="http://detik.net.id/img-assets-slot/buttonclose_v1/btn_close.gif">
+        </span> 
+        <div id="billboard_expanded" class="cad_billboard">
+            <a href='http://newopenx.detik.com/delivery/ck.php?oaparams=2__bannerid=11584__zoneid=472__cb=48035697f9__oadest=http%3A%2F%2Fmicrosite.detik.com%2Fdisplay%2Fhotmusic-april%2F' target='_blank'><img src='http://newopenx.detik.com/images/d0e0b9ee79d71070c4744f59a66c23e5.jpg' width='970' height='250' alt='' title='' border='0' /></a><div id='beacon_48035697f9' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11584&amp;campaignid=4172&amp;zoneid=472&amp;loc=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=48035697f9' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>        </div>
+    </div>
+    <div>
+        <div id="showad" style="text-align:right; display:none;">
+            <img src="http://detik.net.id/img-assets-slot/buttonclose_v1/btn_showhide.gif" border="0">
+        </div>
+    </div>
+    <div class="clearfix"><br /></div>
+</div>
+<script type="text/javascript">
+function close_billboard()
+{
+    $("#billboard_expanded").hide();
+    $("#showad").show();
+}
+$(document).ready(function(){ 
+    $("#showad").click(function() {
+        $("#showad").hide();
+        $("#billboard_expanded").show();
+        $(".billboard_close").show();
+    });
+    $(".billboard_close").click(function() {
+        $("#showad").show();
+        $("#billboard_expanded").hide();
+        $(".billboard_close").hide();
+    });
+});
+</script>
+<div class="Bilboard" style="display: none"></div>            <div class="kiri">
+                <div class="box_hl">
+                    <div id="trending"> 
+                        <strong>Berita Utama</strong> 
+                    </div>
+                    <div id="headline">
+   <div class="hot_topic">
+		<a href="#" id="bu_prev"> </a> 
+		<div class="beritautama"> 
+		<ul id="beritautama"> 
+			<li> 
+		<img src="http://images.detik.com/customthumb/2015/04/17/1207/celerio.jpg?w=80" alt="Suzuki Janji, Celerio Akan Tetap Hadir di Indonesia" width="60" height="60" />
+		Jumat, 17/04/2015 11:41 WIB
+		
+		<h6><a href="http://oto.detik.com/read/2015/04/17/114100/2890229/1207/suzuki-janji-celerio-akan-tetap-hadir-di-indonesia?991101mainnews">Suzuki Janji, Celerio Akan Tetap Hadir di Indonesia</a></h6> 
+	    </li><li> 
+		<img src="http://images.detik.com/customthumb/2015/04/17/10/garuda_luar.jpg?w=80" alt="'Garuda Raksasa' Peninggalan Soeharto di Cileungsi Kini Tinggal Kenangan" width="60" height="60" />
+		Jumat, 17/04/2015 11:20 WIB
+		
+		<h6><a href="http://news.detik.com/read/2015/04/17/111103/2890197/10/garuda-raksasa-peninggalan-soeharto-di-cileungsi-kini-tinggal-kenangan?991101mainnews">'Garuda Raksasa' Peninggalan Soeharto di Cileungsi Kini Tinggal Kenangan</a></h6> 
+	    </li><li> 
+		<img src="http://images.detik.com/customthumb/2015/04/17/10/112101_demo.jpg?w=80" alt="Protes Eksekusi 2 TKI, Puluhan Orang Demo Kedubes Saudi di Kuningan" width="60" height="60" />
+		Jumat, 17/04/2015 11:18 WIB
+		
+		<h6><a href="http://news.detik.com/read/2015/04/17/111839/2890201/10/protes-eksekusi-2-tki-puluhan-orang-demo-kedubes-saudi-di-kuningan?991101mainnews">Protes Eksekusi 2 TKI, Puluhan Orang Demo Kedubes Saudi di Kuningan</a></h6> 
+	    </li><li> 
+		<img src="http://images.detik.com/customthumb/2015/04/17/10/img2015041700038.jpg?w=80" alt="Dicek Gegana dan TNI AU, Batik Air Ambon-Jakarta Dinyatakan <i>Clear</i> dari Bom" width="60" height="60" />
+		Jumat, 17/04/2015 11:17 WIB
+		
+		<h6><a href="http://news.detik.com/read/2015/04/17/111702/2890199/10/dicek-gegana-dan-tni-au-batik-air-ambon-jakarta-dinyatakan-clear-dari-bom?991101mainnews">Dicek Gegana dan TNI AU, Batik Air Ambon-Jakarta Dinyatakan <i>Clear</i> dari Bom</a></h6> 
+	    </li><li> 
+		<img src="http://images.detik.com/customthumb/2015/04/17/10/102010_081451_191050_deudeuh2.jpg?w=80" alt="Cerita Rio Pembunuh 'Tataa Chubby': Antara Cinta Istri dan Nafsu Penasaran" width="60" height="60" />
+		Jumat, 17/04/2015 10:16 WIB
+		<h6 class="f11 l_red_detik bold pt5">Pembunuhan Wanita di Tebet</h6>
+		<h6><a href="http://news.detik.com/read/2015/04/17/101622/2890122/10/cerita-rio-pembunuh-tataa-chubby-antara-cinta-istri-dan-nafsu-penasaran?991101mainnews">Cerita Rio Pembunuh 'Tataa Chubby': Antara Cinta Istri dan Nafsu Penasaran</a></h6> 
+	    </li><li> 
+		<img src="http://images.detik.com/customthumb/2015/04/17/10/img_20150417_100632_1_1429236745252.jpg?w=80" alt="Batik Air Mendarat karena Ancaman Bom, Penerbangan di Makassar Normal" width="60" height="60" />
+		Jumat, 17/04/2015 10:13 WIB
+		
+		<h6><a href="http://news.detik.com/read/2015/04/17/100803/2890108/10/batik-air-mendarat-karena-ancaman-bom-penerbangan-di-makassar-normal?991101mainnews">Batik Air Mendarat karena Ancaman Bom, Penerbangan di Makassar Normal</a></h6> 
+	    </li>
+		</ul> 
+		</div> 
+		<a href="#" id="bu_next"> </a> 
+		<div class="clearfix"></div> 
+	</div><div class="hl"> 
+<span class="imghl"><img src="http://images.detik.com/content/2015/04/17/10/120129_081808_jokowi22.jpg" alt="120129_081808_jokowi22.jpg" width="200" height="200" hspace="0" vspace="0" border="0" class="imghl" /></span>
+    <div class="date">Jumat, 17/04/2015 12:03 WIB</div> 
+    <h2></h2>
+    <h1><a href="http://news.detik.com/read/2015/04/17/120026/2890254/10/jokowi-ke-pembuat-pidatonya-untuk-peringatan-kaa-pesan-jangan-normatif?9911012" class="jdl">Jokowi ke Pembuat Pidatonya untuk Peringatan KAA: Pesan Jangan Normatif</a></h1> 
+    <div>Presiden Jokowi melakukan rapat terbatas membahas pelaksanaan Konfrensi Asia Afrika (KAA). Presiden Jokowi meminta kepada para menterinya agar menyusun sambutan pidatonya tidak normatif.</div>
+    <div class="hl_terkait">
+<span>Berita Terkait</span><div>        <a href="http://news.detik.com/read/2015/04/17/105516/2890162/10/jelang-kaa-satpol-pp-tertibkan-ratusan-bangunan-liar-di-jakarta?9911012" >Jelang KAA, Satpol PP Tertibkan Ratusan Bangunan Liar di Jakarta</a>
+<a class="end" href="http://news.detik.com/read/2015/04/16/190822/2889748/10/kemenkominfo-jurnalis-peliput-kaa-berjumlah-1400-orang?9911012" >Kemenkominfo: Jurnalis Peliput KAA Berjumlah 1.400 Orang</a>
+
+</div>    </div>
+</div>
+</div>
+                </div>
+                <div id="equalize">
+                    <div class="c_kiri" style="min-height: initial !important;">
+                        <div style="padding:0; margin:0;">
+</div>
+                        <div class="most_pop_new m0 mb10">
+    <div class="head_mpn" id="adv2">
+        <a href="#pop">
+             MOST POPULAR
+        </a>
+        <a href="#kom">
+             MOST COMMENTED
+        </a>
+    </div>
+    
+			<ul id="pop">
+				
+				<li>
+					<div class="fl number">01</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 10:16 WIB</span>
+						<h6>Pembunuhan Wanita di Tebet</h6>
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/101622/2890122/10/cerita-rio-pembunuh-tataa-chubby-antara-cinta-istri-dan-nafsu-penasaran?991104topnews"> Cerita Rio Pembunuh 'Tataa Chubby': Antara Cinta Istri dan Nafsu Penasaran</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">02</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 10:28 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://m.detik.com/sepakbola/read/2015/04/17/102817/2890140/74/dijadikan-kambing-hitam-atas-kekalahan-dari-porto-dokter-tim-bayern-mundur?991104topnews">Dijadikan Kambing Hitam atas Kekalahan dari Porto, Dokter Tim Bayern Mundur</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">03</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:15 WIB</span>
+						<h6>Hot Photo</h6>
+						<h5 class="l_blue2_detik"><a href="http://hot.detik.com/readfoto/2015/04/17/110314/2890180/431/potret-kemesraan-agnez-mo-dan-devin-wiggins?991104topnews">Potret Kemesraan Agnez MO dan Devin Wiggins</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">04</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:20 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/111103/2890197/10/garuda-raksasa-peninggalan-soeharto-di-cileungsi-kini-tinggal-kenangan?991104topnews">'Garuda Raksasa' Peninggalan Soeharto di Cileungsi Kini Tinggal Kenangan</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">05</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:22 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://m.detik.com/sepakbola/read/2015/04/17/112223/2890207/72/catatan-pertemuan-chelsea-mu-lima-musim-terakhir?991104topnews">Catatan Pertemuan Chelsea-MU Lima Musim Terakhir</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">06</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:01 WIB</span>
+						<h6>Jelang Chelsea vs MU</h6>
+						<h5 class="l_blue2_detik"><a href="http://sport.detik.com/sepakbola/read/2015/04/17/110156/2890188/72/saatnya-mata-untuk-hantui-stamford-bridge?991104topnews">Saatnya Mata untuk Hantui Stamford Bridge</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">07</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 10:28 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/102811/2890135/10/kapolri-jenderal-badrodin-akan-lanjutkan-kasus-samad-dan-bw?991104topnews">Kapolri Jenderal Badrodin Akan Lanjutkan Kasus Samad dan BW</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">08</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 10:46 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/104602/2890155/103/jokowi-petugas-partai-versus-petugas-bangsa?991104topnews">Jokowi: Petugas Partai Versus Petugas Bangsa</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">09</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:21 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/112138/2890205/10/diduga-keracunan-satu-keluarga-penjual-akik-rawabening-tewas-di-dalam-mobil?991104topnews"> Diduga Keracunan, Satu Keluarga Penjual Akik Rawabening Tewas di Dalam Mobil</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">10</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 10:45 WIB</span>
+						<h6> Misteri Kematian Mahasiswa UI</h6>
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/104532/2890152/10/kolonel-mardoto-ayah-akseyna-kembali-beri-keterangan-di-polres-depok?991104topnews">Kolonel Mardoto, Ayah Akseyna Kembali Beri Keterangan di Polres Depok</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">11</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 09:35 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/093558/2890072/10/presiden-jokowi-resmi-lantik-komjen-badrodin-sebagai-kapolri?991104topnews">Presiden Jokowi Resmi Lantik Komjen Badrodin sebagai Kapolri</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">12</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:11 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://finance.detik.com/read/2015/04/17/111151/2890202/68/orang-paling-berpengaruh-di-dunia-tony-fernandes-dulu-beli-airasia-1-ringgit?991104topnews">Orang Paling Berpengaruh di Dunia, Tony Fernandes Dulu Beli AirAsia 1 Ringgit</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">13</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:08 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/110839/2890193/10/jokowi-masuk-daftar-100-orang-paling-berpengaruh-di-dunia-versi-time?991104topnews">Jokowi Masuk Daftar 100 Orang Paling Berpengaruh di Dunia Versi TIME</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">14</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 08:23 WIB</span>
+						<h6>Pembunuhan Wanita di Tebet</h6>
+						<h5 class="l_blue2_detik"><a href="http://news.detik.com/read/2015/04/17/082318/2890017/10/ngaku-tak-niat-merampok-rio-kencani-deudeuh-karena-penasaran?991104topnews">Ngaku Tak Niat Merampok, Rio 'Kencani' Deudeuh karena Penasaran</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">15</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 10:36 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://health.detik.com/read/2015/04/17/103132/2890142/763/bukan-kecapekan-ngorok-juga-bisa-disebabkan-5-masalah-kesehatan-ini?991104topnews">Bukan Kecapekan, <i>Ngorok</i> Juga Bisa Disebabkan 5 Masalah Kesehatan Ini</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">16</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:14 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://m.detik.com/wolipop/read/2015/04/17/111023/2890194/1141/zara-diskon-hingga-70-dress-mulai-dari-rp-150-ribu?991104topnews">Zara Diskon Hingga 70%, <i>Dress</i> Mulai dari Rp 150 Ribu</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">17</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 09:41 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://health.detik.com/read/2015/04/17/093632/2890073/763/sempat-meninggal-jantung-pria-ini-berdetak-lagi-setelah-tubuhnya-dibekukan?991104topnews">Sempat Meninggal, Jantung Pria Ini Berdetak Lagi Setelah Tubuhnya Dibekukan</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">18</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 08:40 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://travel.detik.com/read/2015/04/17/084006/2890028/1519/bukti-nyata-sampah-dibuang-ke-laut-bisa-hanyut-sampai-sulawesi?991104topnews">Bukti Nyata! Sampah Dibuang ke Laut Bisa Hanyut Sampai Sulawesi</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">19</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 11:32 WIB</span>
+						<h6>True Story</h6>
+						<h5 class="l_blue2_detik"><a href="http://health.detik.com/read/2015/04/17/113202/2890219/1202/agar-jadi-anak-laki-laki-gadis-ini-jalani-terapi-hormon-di-usia-10-tahun?991104topnews">Agar Jadi Anak Laki-laki, Gadis Ini Jalani Terapi Hormon di Usia 10 Tahun</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<li>
+					<div class="fl number">20</div>
+					<div class="w195 fr">
+						<span class="date">Jumat, 17/04/2015 09:08 WIB</span>
+						
+						<h5 class="l_blue2_detik"><a href="http://travel.detik.com/read/2015/04/17/090815/2890050/1382/menginap-di-the-trans-luxury-hotel-warga-jabar-diskon-50?991104topnews">Menginap di The Trans Luxury Hotel, Warga Jabar Diskon 50%</a></h5>
+					</div>
+					<div class="clearfix"></div>
+				</li>
+				<div align="center" class="pd10">
+					<a class="most_but" href="http://detik.com/mostpopular?utm_source=selengkapnyaboxmostpop&utm_medium=button&utm_campaign=button%20selengkapnya%20box%20wp%20detikcom">Selengkapnya</a>
+				</div>
+			</ul><ul class="box_komentar_new none" id="kom">
+<li>
+  <div class="fl number">
+	2008
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Minggu, 12/04/2015 23:56 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://sport.detik.com/sepakbola/comment/2015/04/12/221119/2884871/72/mu-taklukkan-city-4-2">MU Taklukkan City 4-2</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	481
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Senin, 13/04/2015 23:38 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://sport.detik.com/sepakbola/comment/2015/04/13/233833/2886283/76/pssi-bisa-dihukum-fifa-menpora-bismillah-indonesia-negara-berdaulat">PSSI Bisa Dihukum FIFA, Menpora: Bismillah, Indonesia Negara Berdaulat</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	386
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Sabtu, 11/04/2015 19:43 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://sport.detik.com/sepakbola/comment/2015/04/11/194309/2884508/76/lagi-sekjen-fifa-kirim-surat-buat-indonesia-dan-tebar-ancaman">Lagi, Sekjen FIFA Kirim Surat buat Indonesia dan Tebar Ancaman</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	366
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Jumat, 10/04/2015 15:00 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://news.detik.com/comment/2015/04/10/150012/2883720/612/jokowi-presiden-pilihan-rakyat-bukan-presiden-partai">Jokowi Presiden Pilihan Rakyat, Bukan Presiden Partai!</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	358
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Sabtu, 11/04/2015 15:32 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://news.detik.com/comment/2015/04/11/153058/2884408/10/megawati-jika-tidak-mau-disebut-petugas-partai-keluar">Megawati: Jika Tidak Mau Disebut Petugas Partai, Keluar!</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	347
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Kamis, 16/04/2015 16:51 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://sport.detik.com/sepakbola/comment/2015/04/16/165110/2889580/72/chelsea-dicatat-sebagai-tim-yang-paling-sering-kalahkan-mu-di-ltigtpremier-leaguelt-igt">Chelsea Dicatat sebagai Tim yang Paling Sering Kalahkan MU di Premier League</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	264
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Jumat, 10/04/2015 10:57 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://news.detik.com/comment/2015/04/10/105710/2883455/10/ramai-soal-minuman-alkohol-ahok-nyuri-duit-rakyat-lebih-dosa"> Ramai Soal Minuman Alkohol, Ahok: Nyuri Duit Rakyat Lebih Dosa</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	250
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Minggu, 12/04/2015 07:56 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://sport.detik.com/sepakbola/comment/2015/04/12/075658/2884579/76/surati-menteri-ri-dan-ancam-hukum-indonesia-sekjen-fifa-di-ltigtbullylt-igt-di-twitter">Surati Menteri RI dan Ancam Hukum Indonesia, Sekjen FIFA Di-bully di Twitter</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	229
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Senin, 13/04/2015 12:52 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://sport.detik.com/comment/2015/04/13/125254/2885593/81/movistar-yamaha-lorenzo-sedang-tidak-fit">Movistar Yamaha: Lorenzo Sedang Tidak Fit</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	199
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Kamis, 16/04/2015 12:18 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://news.detik.com/comment/2015/04/16/121826/2889134/10/prajurit-jatuh-di-depan-jokowi-dari-den-jaka-kondisi-lukanya-cukup-serius">Prajurit Jatuh di Depan Jokowi dari Den Jaka, Kondisi Lukanya Cukup Serius</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li>
+<li>
+  <div class="fl number">
+	188
+	<strong>KOMENTAR</strong>
+  </div>
+  <div class="fr"> 
+	<span class="date">Sabtu, 11/04/2015 09:26 WIB</span> 
+	<h5 class="l_blue2_detik"><a href="http://news.detik.com/comment/2015/04/11/092646/2884230/10/mendagri-apbd-dki-rp-69-t-ahok-jangan-bermanuver-opini">Mendagri: APBD DKI Rp 69 T, Ahok Jangan Bermanuver Opini</a></h5>
+  </div>
+  <div class="clearfix"></div>
+</li></ul>
+</div>
+                        <div class="zona3_wp_detik"></div>
+                        <div class="banner_reg cad_scl2"><script type="text/javascript">
+    google_ad_client = "ca-pub-6880533263535234";
+    google_ad_slot = "6236923702";
+    google_ad_width = 250;
+    google_ad_height = 250;
+</script>
+<!-- BackFilling - detikcomWP - Showcase Left 2 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><div id='beacon_ece660424c' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=9168&amp;campaignid=3380&amp;zoneid=1100&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=ece660424c' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div><!-- S:CHANNELBOX PASANGMATA -->
+				<div class="pm_box">
+					<div class="title">
+						<a href="https://pasangmata.detik.com/?993306pm"><img src="http://detik.net.id/detik/image/pm_logo.png" alt="Logo Pasang Mata" /></a>
+					</div>
+					<div href="https://pasangmata.detik.com/contribution/118372?993306pm" class="pm_hl">
+									<img src="https://images.detik.com/community/pasma/2015/04/15/14290900001276392587.jpg" alt="" class="pic"/>
+									
+									<span class="pm_topik">#Lalulintas</span>
+									<div class="pm_jdl"><a href="https://pasangmata.detik.com/contribution/118372?993306pm">Jl Sultan Iskandar Muda arah Pondok Indah Padat Merayap</a></div>
+								</div>
+<a class="pm_list" href="https://pasangmata.detik.com/contribution/118379?993306pm">
+									<span class="pic">
+										<img src="https://images.detik.com/community/pasma/2015/04/15/14290909901061655769.jpg" alt="" />
+										
+									</span>
+									<span class="pm_topik">#Lalulintas</span>
+									<div class="pm_jdl">Lalin dari Tanjung Barat Menuju Lenteng Agung Padat Merayap</div>
+									<div class="pm_com">Syarifudin | <img src="http://detik.net.id/detik/image/pm_comment.png" alt="" /> 0</div>
+									<div class="clearfix"></div>
+								</a>
+					<div class="pd10 f12">
+						<a href="https://pasangmata.detik.com/?993306pm" class="fl pm_kirim">KIRIM KONTRIBUSI</a>
+						<a href="https://pasangmata.detik.com/?993306pm" class="l_white_detik fr">INDEKS ></a>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+				<!-- E:CHANNELBOX PASANGMATA --> 
+<div class="newdetiktv">
+	<div class="title">
+		detik<span>Foto</span>
+		<a href="http://foto.detik.com/indeks?991105462" class="fr normal f11">Indeks Foto &raquo;</a>
+	</div>
+	<div class="list_foto">
+		<a class="satu" href="http://sport.detik.com/sepakbola/readfoto/2015/04/17/101218/2890113/548/1/dynamo-kiev-fiorentina-berakhir-imbang?991105462">
+			<div class="pic"><img src="http://images.detik.com/customthumb/2015/04/17/548/fiorentina-coverrr.jpg?w=250" alt=""></div>
+			<div class="text">Dynamo Kiev-Fiorentina Berakhir Imbang</div>
+		</a>
+		<div class="clearfix"></div>
+		<div id="slidefoto" class="list2">
+						<a href="http://sport.detik.com/sepakbola/readfoto/2015/04/17/095051/2890082/548/1/napoli-tumbangkan-wolfsburg-4-1?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/17/548/napolicoverrr.jpg?w=250" alt=""></span>
+				Napoli Tumbangkan Wolfsburg 4-1			</a>
+						<a href="http://finance.detik.com/readfoto/2015/04/17/091102/2890052/461/1/mulai-hari-ini-bir-dilarang-di-minimarket?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/17/461/bircoverr.jpg?w=250" alt=""></span>
+				Mulai Hari Ini Bir Dilarang di Minimarket			</a>
+						<a href="http://sport.detik.com/readfoto/2015/04/16/224709/2889845/463/1/gmw-medina-warda-tahan-remis-gm-nguyen-anh-dung?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/16/463/covermedia.jpg?w=250" alt=""></span>
+				GMW Medina Warda Tahan Remis GM Nguyen Anh Dung			</a>
+						<a href="http://news.detik.com/readfoto/2015/04/16/191011/2889749/157/1/adriansyah-diperiksa-kpk?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/16/157/coverandri.jpg?w=250" alt=""></span>
+				Adriansyah Diperiksa KPK			</a>
+						<a href="http://news.detik.com/readfoto/2015/04/16/180707/2889678/157/1/paripurna-dpr-setuju-komjen-badrodin-jadi-kapolri?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/16/157/Komjenbrado-disahkan-CV.jpg?w=250" alt=""></span>
+				Paripurna DPR Setuju Komjen Badrodin Jadi Kapolri			</a>
+						<a href="http://news.detik.com/readfoto/2015/04/16/164612/2889568/157/1/siswa-smpn-65-mengungsi-ke-sdn-12-pagi?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/16/157/coverngungsi.jpg?w=250" alt=""></span>
+				Siswa SMPN 65 Mengungsi ke SDN 12 Pagi			</a>
+						<a href="http://news.detik.com/readfoto/2015/04/16/154705/2889490/157/1/sisa-sisa-kebakaran-di-smp-65-jakarta?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/16/157/SMP65-kebak-CV.jpg?w=250" alt=""></span>
+				Sisa-sisa Kebakaran di SMP 65 Jakarta			</a>
+						<a href="http://news.detik.com/readfoto/2015/04/16/150707/2889401/157/1/komjen-badrodin-jalani-uji-kelayakan-calon-kapolri?991105462">
+				<span class="pic"><img src="http://images.detik.com/customthumb/2015/04/16/157/Badrotin-Haitiujkel-CV.jpg?w=250" alt=""></span>
+				Komjen Badrodin Jalani Uji Kelayakan Calon Kapolri			</a>
+					</div>
+		<div class="package_bullet">
+			<img src="image/arrow_left.png" alt="" id="sf_prev">
+			<div id="sf_page" class="pag_bulet"></div>
+			<img src="image/arrow_right.png" alt="" id="sf_next">
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<div class="clearfix pt15"></div>
+
+
+<!-- S:NEW DETIKTV -->
+                        <div class="newdetiktv">
+                            <div class="title">
+                                detik<span>TV</span>
+                                <a href="http://tv.detik.com/indeks" class="fr normal f11">Indeks Video &raquo;</a>
+                            </div>
+                            <div class="list_foto list_tv">
+                                <div id="slidetv"><a class="satu" href="http://tv.detik.com/readvideo/2015/04/17/120108/150417004/120416002/061009681/perampok-lolos-dari-sergapan?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429247010.25.jpg?w=250" alt=""></div>
+					<div class="text"> Perampok lolos dari sergapan </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/17/084241/150417003/120416002/061009681/kakak-beradik-tewas-tenggelam?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429246638.04.jpg?w=250" alt=""></div>
+					<div class="text"> Kakak Beradik Tewas Tenggelam </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/17/104235/150417001/120416002/061009681/demi-kaa-car-free-day-ditiadakan?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/1429246787.14.jpg?w=250" alt=""></div>
+					<div class="text"> Demi KAA, Car Free Day Ditiadakan </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/17/094238/150417002/120416002/061009681/pria-tabrakan-diri-ke-kereta?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/1429246462.82.jpg?w=250" alt=""></div>
+					<div class="text"> Pria Tabrakan Diri ke Kereta </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/16/193047/150416011/120416002/061009681/penemuan-bayi-dalam-kantong-plastik-dan-mulut-dilakban?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429187749.48.jpg?w=250" alt=""></div>
+					<div class="text"> Penemuan Bayi dalam Kantong Plastik dan Mulut Dilakban </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/16/185044/150416010/120416002/061009681/nenek-asyani-bersimpuh-meyakinkan-hakim?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429184939.61.jpg?w=250" alt=""></div>
+					<div class="text"> Nenek Asyani Bersimpuh Meyakinkan Hakim </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/16/182541/150416009/120416002/061009681/polisi-tembakan-gas-air-mata-saat-eksekusi-rumah?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429183473.54.jpg?w=250" alt=""></div>
+					<div class="text"> Polisi Tembakan Gas Air Mata saat Eksekusi Rumah  </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/16/175410/150416008/120416002/061009681/badrodin-haiti-segera-pimpin-polri?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429181822.98.jpg?w=250" alt=""></div>
+					<div class="text"> Badrodin Haiti Segera Pimpin Polri </div>
+				</a><a class="satu" href="http://tv.detik.com/readvideo/2015/04/16/155037/150416006/120416002/061009681/soal-un-yang-bocor-diduga-dilakukan-karyawan-percetakan?991108tv">
+					<div class="pic"><img src="http://images.detik.com/customtv/2015/04/2015/04/1429174248.75.jpg?w=250" alt=""></div>
+					<div class="text"> Soal UN yang Bocor Diduga Dilakukan Karyawan Percetakan </div>
+				</a>
+                                </div>
+                                <div class="package_bullet">
+                                    <img src="image/arrow_left.png" alt="" id="sv_prev">
+                                    <span id="pagenumber" class="num"></span>
+                                    <span class="num">/</span>
+                                    <span id="sv_page"></span>
+                                    <img src="image/arrow_right.png" alt="" id="sv_next">
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+<div class="clearfix pt15"></div>
+                        <!-- E:NEW DETIKTV --> 
+                    </div>
+                    <div class="tengah" style="min-height: initial !important;"> 
+<ul class="list_berita_1">
+    <!-- channelbox -->
+
+<li style="margin-bottom:-10px;" class="blok_cnn">
+	<a onclick="_gaq.push(['_setAccount', 'UA-51806390-1'], ['_trackEvent', 'WP Detikcom', 'Box Atas NHL CNN', 'Logo CNN Indonesia']);" href="http://www.cnnindonesia.com/" class="logocnn"><img src="//cnnindonesia.com/assets/bt/image/logo_cnn_white.png"></a> 
+    <a onclick="_gaq.push(['_setAccount', 'UA-51806390-1'], ['_trackEvent', 'WP Detikcom', 'Box Atas NHL CNN', 'Indeks']);" href="http://www.cnnindonesia.com/indeks"><div class="fr">Index &raquo;</div></a>
+    <div class="clearfix"></div>
+    <div class="hl_cnnlog7">
+        <a onclick="_gaq.push(['_setAccount', 'UA-51806390-1'], ['_trackEvent', 'WP Detikcom', 'Box Atas NHL CNN', 'List Berita']);" href="http://cnnindonesia.com/nasional/20150417120604-12-47387/jaksa-agung-eksekusi-mati-di-indonesia-beda-dari-negara-lain/">
+            <div class="pic"><img src="//images.cnnindonesia.com/visual/2015/02/27/14b4bed2-ca04-43fe-ba7d-955948f4b42c_169.jpg?w=400&q=75"></div>
+            <div class="titel_cnnbill2">
+                <div class="date"> Jumat, 17/04/2015 12:06 </div>
+                <h3 style="font-size:16px; font-weight:bold; color:#FF3;" class="l_yellow_detik">Jaksa Agung: Eksekusi Mati di Indonesia Beda dari Negara Lain&nbsp;</h3> 
+            </div>
+        </a>
+    </div>
+    <div class="clearfix"></div> 
+</li>
+<li style="border-top:none;" class="blok_cnn blok_cnn2" >
+    Jumat, 17/04/2015 12:10
+    <h4 style="font-size:12px; font-weight:bold;" class="l_yellow_detik"><a onclick="_gaq.push(['_setAccount', 'UA-51806390-1'], ['_trackEvent', 'WP Detikcom', 'Box Atas NHL CNN', 'List Berita']);" href="http://cnnindonesia.com/ekonomi/20150417121034-92-47383/demi-pabrik-baru-semen-indonesia-pangkas-dividen/">Demi Pabrik Baru, Semen Indonesia Pangkas Dividen&nbsp;</a></h4>
+    <div class="clearfix"></div> 
+</li>
+
+<li  class="blok_cnn blok_cnn2" >
+    Jumat, 17/04/2015 11:17
+    <h4 style="font-size:12px; font-weight:bold;" class="l_yellow_detik"><a onclick="_gaq.push(['_setAccount', 'UA-51806390-1'], ['_trackEvent', 'WP Detikcom', 'Box Atas NHL CNN', 'List Berita']);" href="http://cnnindonesia.com/olahraga/20150417111735-142-47363/menpora-diminta-wapres-jk-datang-ke-kongres-pssi/">Menpora Diminta Wapres JK Datang ke Kongres PSSI&nbsp;</a></h4>
+    <div class="clearfix"></div> 
+</li>
+
+<style>
+/* s:box CNN */  
+.list_berita_1 .blok_cnn {
+	background:#cc0000;
+	margin:0 -12px;
+	padding:13px 12px;
+	position: relative;
+	margin-top: -10px;
+	border: 0;
+	font-family:Arial, Helvetica, sans-serif;
+} 
+
+.list_berita_1 .blok_cnn h3 {
+	font-family:Arial, Helvetica, sans-serif;
+} 
+
+.list_berita_1 .blok_cnn .picz {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	background: #FFF; 
+	overflow: hidden;
+	position: relative;
+	
+	border: 3px solid #FFF;
+} 
+.list_berita_1 .blok_cnn .picz img {
+	height:100%;
+}
+.list_berita_1 .blok_cnn .logocnn {
+	display:block;
+	padding:0 20px 5px 0;
+	float:left;
+	width:150px;
+} 
+.list_berita_1 .blok_cnn .logocnn img:hover {
+	 opacity:0.9;
+} 
+.list_berita_1 .blok_cnn2 {
+	border-top: 1px solid rgba(255,255,255,0.5);
+	margin-top: 0;
+	padding: 6px 12px 10px;
+}
+.list_berita_1 .blok_cnn2 h4{
+	font-size: 14px;
+	font-family: georgia, helvetica,arial;
+}
+.list_berita_1 .blok_cnn .ico_vidimg {
+	height: 15px;
+	display: inline-block;
+	position: relative;
+	top: 3px;
+}
+
+/* s:box CNN */ 
+
+
+/* s:box CNN */  
+.list_berita_1 .blok_cnn3 {
+	background:#000;
+	margin:0 -12px;
+	padding:13px 12px;
+	position: relative;
+	margin-top: -10px;
+	border: 0;
+} 
+.list_berita_1 .blok_cnn3 .picz {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	background: #FFF; 
+	overflow: hidden;
+	position: relative;
+	
+	border: 3px solid #FFF;
+} 
+.list_berita_1 .blok_cnn3 .picz img {
+	height:100%;
+}
+.list_berita_1 .blok_cnn3 .logocnn {
+	display:block;
+	padding:0 0 5px 0;
+} 
+.list_berita_1 .blok_cnn3 .logocnn img:hover {
+	 opacity:0.9;
+} 
+.list_berita_1 .blok_cnn3 {
+	border-top: 1px dotted rgba(255,255,255,0.2) !important;
+	margin-top: 0;
+	padding: 6px 12px 10px;
+}
+.list_berita_1 .blok_cnn3 h4{
+	font-size: 14px;
+	font-family: georgia, helvetica,arial;
+}
+.list_berita_1 .blok_cnn3 .ico_vidimg {
+	height: 15px;
+	display: inline-block;
+	position: relative;
+	top: 3px;
+}
+
+/* s:box CNN */ 
+
+/* s:box CNN */  
+.list_berita_1 .blok_cnn4 {
+	background:#cc0000;
+	margin:0 -12px;
+	padding:13px 12px;
+	position: relative;
+	margin-top: -10px;
+	border: 0;
+} 
+.list_berita_1 .blok_cnn4 .picz {
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	background: #FFF; 
+	overflow: hidden;
+	position: relative;
+	
+	border: 3px solid #FFF;
+} 
+.list_berita_1 .blok_cnn4 .picz img {
+	height:100%;
+}
+.list_berita_1 .blok_cnn4 .logocnn {
+	display:block;
+	padding:0 20px 5px 0;
+	float:left;
+	width:150px;
+} 
+.list_berita_1 .blok_cnn4 .logocnn img:hover {
+	 opacity:0.9;
+} 
+.list_berita_1 .blok_cnn4 {
+	border-top: 1px dotted rgba(255,255,255,0.2) !important;
+	margin-top: 0;
+	padding: 6px 12px 10px;
+}
+.list_berita_1 .blok_cnn2 h4{
+	font-size: 14px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.list_berita_1 .blok_cnn4 .ico_vidimg {
+	height: 15px;
+	display: inline-block;
+	position: relative;
+	top: 3px;
+}
+
+.list_berita_1 .blok_cnn4 a {
+color: #fff;
+}
+.list_berita_1 .blok_cnn4 a:hover {
+color: #FF6;
+}
+
+.blok_cnn4 h4 a {
+color: #fff;
+}
+
+/* s:box CNN */ 
+
+.hl_cnnlog7 {
+width: 350px;
+overflow: hidden;
+display: block;
+float: left;
+height: 197px;
+margin: 5px 12px 1px 0;
+position: relative;
+}
+
+.hl_cnnlog7 .pic{
+	overflow: hidden;
+	width: 100%;
+	height: 197px;
+	background: #eaeaea;
+	display: block;
+	text-align: center;
+}
+
+.hl_cnnlog7 .pic img{
+	width:100%;
+}
+.hl_cnnlog7 a:hover{
+	opacity:0.9;
+}
+
+.hl_cnnlog7 .pic img:hover{
+	opacity:0.8;
+}
+
+.hl_cnnlog7 .titel_cnnbill2{
+	background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.47) 41%,rgba(0,0,0,0.7) 61%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#b3000000',GradientType=0 );  
+	
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	padding: 5px;
+	position: absolute;
+	bottom:0;
+	z-index: 2;
+	display: block;
+	text-align: left;
+	color: #fff;
+	width:340px;
+	padding-top:10px;
+}
+
+.hl_cnnlog7 .titel_cnnbill2:hover{
+	color:#fff;
+}
+
+.hl_cnnlog7 .titel_cnnbill2 .date {
+	font-size:12px;
+	padding-bottom:2px;
+}
+</style>    <li>
+    Jumat, 17/04/2015 12:13 WIB
+    <h5>Hollywood Hot Profile</h5>
+    <h3 class="l_yellow_detik"><a href="http://hot.detik.com?9922022" >Chrissy Teigen Tak Pernah Malu Ungkap Kehidupan Seks dengan John Legend</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/1303/hp2cvr.jpg?w=75" class="img1" alt="hp2cvr.jpg"/>
+    
+    Chrissy Teigen adalah salah satu selebriti yang tak pernah malu mengungkapkan hubungan intimnya dengan suami. Istri dari John Legend tersebut kerap buka-bukaan mengenai kehidupan seksnya ketika sedang diwawancara.
+    <div class="clearfix"></div>
+</li>
+
+
+<li>
+    Jumat, 17/04/2015 12:13 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://finance.detik.com?9922022" >Bir Dijual <i>Online</i>, Mendag Gobel: Tidak Boleh!</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/1036/bir02koper.jpg?w=75" class="img1" alt="bir02koper.jpg"/>
+    
+    Pelarangan penjualan bir di minimarket dan toko eceran membuka celah baru untuk memperdagangkan minuman ini. Salah satunya adalah penjualan melalui internet alias <em>online</em>.
+    <div class="clearfix"></div>
+</li>
+
+<!-- center1 -->
+<!--<li id="banner_exp1" class="banner_exp cad_ca1"></li>-->
+<!-- adv1 -->
+<li>
+Jum'at, 17/04/2015 00:00 WIB
+<h5> </h5>
+<h3 class="l_yellow_detik">
+<a href="http://newopenx.detik.com/delivery/ck.php?oaparams=2__bannerid=11576__zoneid=94__cb=dccab83c32__oadest=http%3A%2F%2Fmicrosite.detik.com%2Fdisplay%2Finfographic.bri%2F" target="_blank">Solusi Aman dan Mudah Untuk Setiap Transaksi Perbankan</a>
+</h3>
+<img class="img1" src="http://images.detik.com/customthumb/2015/04/17/727/110502_imagetalent2.jpg" alt="honda-mobilio-cover.jpg">
+Setiap nasabah bank tentu ingin lebih dimudahkan dalam melakukan setiap transaksi. Tidak hanya mudah, keamanan juga menjadi faktor pertimbangan utama setiap nasabah.
+<div class="clearfix"> </div>
+</li><div id='beacon_dccab83c32' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11576&amp;campaignid=4221&amp;zoneid=94&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=dccab83c32' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div><li>
+    Jumat, 17/04/2015 12:08 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://hot.detik.com?9922022" >Muzdhalifah Bisa Cari Nafkah Sendiri Tanpa Nassar</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/230/1nassarcov.jpg?w=75" class="img1" alt="1nassarcov.jpg"/>
+    
+    Rumah tangga Nassar dan Muzdhalifah terus menjadi sorotan. Muzdhalifah juga mengaku bisa mengurus anak sendiri bahkan siap mencari nafkah seorang diri tanpa sang pedangdut kondang itu.
+    <div class="clearfix"></div>
+</li>
+
+<!-- center2 -->
+<!--<li id="banner_exp1" class="banner_exp cad_ca2"></li>-->
+ <li>
+    Jumat, 17/04/2015 12:07 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/120250/2890259/1148/wanita-as-jadi-korban-penembakan-di-pakistan-diduga-oleh-isis?9922022" >Wanita AS Jadi Korban Penembakan di Pakistan, Diduga oleh ISIS</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/1148/pistoluarr.jpg?w=75" class="img1" alt="pistoluarr.jpg"/>
+    
+    Seorang wanita AS tertembak dan mengalami luka-luka di Karachi, Pakistan. Dari brosur yang ada di lokasi kejadian, menyebutkan serangan ini dilakukan atas nama ISIS.
+    <div class="clearfix"></div>
+</li>
+
+
+ <li>
+    Jumat, 17/04/2015 12:05 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/120214/2890255/10/kemendagri-minta-kpu-ajukan-anggaran-pilkada-serentak-yang-relevan?9922022" >Kemendagri Minta KPU Ajukan Anggaran Pilkada Serentak yang Relevan</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/10/donnykemendagri.jpg?w=75" class="img1" alt="donnykemendagri.jpg"/>
+    
+    KPU sempat meminta adanya anggaran tambahan untuk Pilkada serentak yang dimasukkan ke APBN-P 2015. Dirjen Keuangan Daerah Kemendagri Reydonnyzar Moenek berpesan agar daftar anggaran yang akan diajukan harus relevan.
+    <div class="clearfix"></div>
+</li>
+
+<li id="banner_exp1" class="banner_exp cad_ca3"><script src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=12202670&PluID=49&w=350&h=130&ord=[timestamp]&ucm=true"></script>
+
+<noscript>
+
+<a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=brd&FlightID=12202670&Page=&PluID=49&Pos=168716768" target="_blank"><img src="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=bsr&FlightID=12202670&Page=&PluID=49&Pos=168716768" border=0 width=350 height=130></a>
+
+</noscript><div id='beacon_a7b05a7368' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11212&amp;campaignid=4073&amp;zoneid=328&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=a7b05a7368' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></li>
+ <li>
+    Jumat, 17/04/2015 12:05 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/115407/2890248/1513/partai-demokrat-australia-dicabut-statusnya-sebagai-parpol?9922022" >Partai Demokrat Australia Dicabut Statusnya sebagai Parpol</a></h3>
+    
+    Partai Demokrat Australia secara resmi dicabut statusnya sebagai parpol setelah eksis di negara itu selama 40 tahun. Pencabutan status dilakukan KPU Australia karena syarat jumlah keanggotaan minimal tidak tepenuhi.
+    <div class="clearfix"></div>
+</li>
+
+
+<li>
+    Jumat, 17/04/2015 12:04 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/111509/2890246/934/wikileaks-terbitkan-dokumen-sony?9922022" >Wikileaks Terbitkan Dokumen Sony</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/934/150417031320_film_the_interview_640x360_getty_nocredit.jpg?w=75" class="img1" alt="150417031320_film_the_interview_640x360_getty_nocredit.jpg"/>
+    
+    Wikileaks menerbitkan ratusan ribu email dan dokumen yang berisi serangan siber terhadap Sony Pictures Entertainment tahun lalu. Arsip-arsip itu termasuk percakapan Sony dengan Downing Street -kantor PM Inggris- dan dengan tokoh-tokoh Hollywood.
+    <div class="clearfix"></div>
+</li>
+
+
+<li>
+    Jumat, 17/04/2015 12:04 WIB
+    <h5></h5>
+    <h3 class="l_yellow_detik"><a href="http://finance.detik.com?9922022" >Saham Bir Anjlok, Analis: Cuma <i>Shock</i> Gara-gara Larangan Kemendag</a></h3>
+            <img src="http://images.detik.com/customthumb/2015/04/17/6/115854_birzone320.jpg?w=75" class="img1" alt="115854_birzone320.jpg"/>
+    
+    Saham-saham produsen bir terpantau anjlok minimarket dan pengecer dilarang menjual bir. Analis memprediksi koreksi ini bersifat sementara.
+    <div class="clearfix"></div>
+</li>
+
+
+
+</ul><div class="berita_selanjutnya2"> 
+    <div class="title">Berita Sebelumnya</div> 
+    <ul>
+         <li> 
+    Jumat, 17/04/2015 12:03 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://oto.detik.com?9922032" >VW Scirocco GTS Terbaru Punya Tenaga Dahsyat</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 12:01 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/033040/2890245/934/debat-pemilu-inggris-pimpinan-partai-buruh-dituduh-penakut?9922032" >Debat Pemilu Inggris, Pimpinan Partai Buruh Dituduh Penakut</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:58 WIB
+    <h6> Pembunuhan Wanita di Tebet</h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/115300/2890249/10/cerita-rio-mencari-mangsa-di-twitter-hanya-tataa-chubby-yang-mau-merespons?9922032" >Cerita Rio Mencari 'Mangsa' di Twitter, Hanya Tataa Chubby yang Mau Merespons</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:57 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/115354/2890247/1513/ditemukan-praktek-korupsi-agen-pendidikan-untuk-kuliah-di-australia?9922032" >Ditemukan Praktek Korupsi Agen Pendidikan untuk Kuliah di Australia</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:55 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/115134/2890244/10/2-tkw-dieksekusi-di-arab-saudi-menteri-yohanna-ini-pelajaran-bagi-pemerintah?9922032" >2 TKW Dieksekusi di Arab Saudi, Menteri Yohanna: Ini Pelajaran Bagi Pemerintah</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:55 WIB
+    <h6>Garuda Raksasa Tinggal Kenangan</h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/114914/2890241/10/ini-bagian-dalam-garuda-raksasa-di-cileungsi-yang-kini-rata-dengan-tanah?9922032" >Ini Bagian Dalam 'Garuda Raksasa' di Cileungsi yang Kini Rata dengan Tanah </a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:55 WIB
+    <h6>Jelang Chelsea vs MU</h6> 
+    <h5 class="l_yellow_detik"><a href="http://sport.detik.com/sepakbola?9922032" > Chelsea Dijagokan Menang Atas MU, Loic Remy Sebagai Pencetak Gol Pertama</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:52 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://finance.detik.com?9922032" >Pertamina Hapus Bensin Premium, Menteri ESDM: Kita Ingin Energi Bersih!</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:51 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/114838/2890239/10/batik-air-diancam-bom-polri-sekecil-apapun-harus-diwaspadai?9922032" >Batik Air Diancam Bom, Polri: Sekecil Apapun Harus Diwaspadai</a></h5>
+</li><li> 
+    Jumat, 17/04/2015 11:50 WIB
+    <h6></h6> 
+    <h5 class="l_yellow_detik"><a href="http://news.detik.com/read/2015/04/17/115100/2890242/10/pengirim-sms-bom-batik-air-akan-ditelusuri-polisi-ambon?9922032" >Pengirim SMS Bom Batik Air akan Ditelusuri Polisi Ambon</a></h5>
+</li>
+        <li class="index l_white_detik"> 
+		<a href="http://rss.detik.com/index.php/detikcom/"><img alt="" class="fl" src="image/rss.gif"></a> 
+		<a class="fr" href="http://www.detiknews.com/indeks">INDEKS BERITA</a> 
+	    <div class="clearfix"></div> 
+	</li>
+    </ul>
+</div>
+</div>
+                    
+                </div>
+                <div class="clearfix"></div>         
+            </div>
+            <div class="kanan">
+<div class="banner_reg cad_scr1"><script type="text/javascript">
+    google_ad_client = "ca-pub-6880533263535234";
+    google_ad_slot = "2516407940";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- BackFilling - detikcomWP - Showcase Right 1 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><div id='beacon_9a6e7c77e0' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=9089&amp;campaignid=3380&amp;zoneid=1094&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=9a6e7c77e0' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div><div class="showcaseright1" style="display: none"></div><div class="banner_reg cad_scr2"><script type="text/javascript">
+    google_ad_client = "ca-pub-6880533263535234";
+    google_ad_slot = "9185679878";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- BackFilling - detikcomWP - Showcase Right 2 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><div id='beacon_c6bff35a24' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=9096&amp;campaignid=3380&amp;zoneid=1095&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=c6bff35a24' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div> 
+<!--S:BOX FOKUS BERITA-->
+<div class="box_fokus_berita">
+	<img src="http://detik.net.id/news/image/fokus_berita_title.png" class="tl">
+	<div class="woro">Simak topik berita populer terkini</div>
+	<ul class="list_fokus">
+		
+		<li>
+			<a href="http://news.detik.com/indeksfokus/3407/batik-air-diancam-bom?fokuswp">
+				<span class="num">01</span>
+				<h5>Batik Air Diancam Bom</h5>
+				<div class="clearfix"></div>
+			</a>
+		</li>
+		<li>
+			<a href="http://news.detik.com/indeksfokus/3405/peringatan-60-tahun-kaa?fokuswp">
+				<span class="num">02</span>
+				<h5>Peringatan 60 Tahun KAA</h5>
+				<div class="clearfix"></div>
+			</a>
+		</li>
+		<li>
+			<a href="http://news.detik.com/indeksfokus/3403/f-16-terbakar-di-lanud-halim?fokuswp">
+				<span class="num">03</span>
+				<h5>F-16 Terbakar di Lanud Halim </h5>
+				<div class="clearfix"></div>
+			</a>
+		</li>
+		<li>
+			<a href="http://news.detik.com/indeksfokus/3394/pembunuh-#039tata-chubby#039-ditangkap?fokuswp">
+				<span class="num">04</span>
+				<h5>Pembunuh 'Tata Chubby' Ditangkap</h5>
+				<div class="clearfix"></div>
+			</a>
+		</li>
+		<li>
+			<a href="http://news.detik.com/indeksfokus/3393/siti-zaenab-dieksekusi-mati?fokuswp">
+				<span class="num">05</span>
+				<h5>Siti Zaenab Dieksekusi Mati</h5>
+				<div class="clearfix"></div>
+			</a>
+		</li>
+	</ul>
+	<div class="fb_lainnya">
+		<a href="http://news.detik.com/fokusberita?fokuswp">FOKUS BERITA LAINNYA</a>
+	</div>
+</div>
+<!--E:BOX FOKUS BERITA--><div class="zona2_wp_detik"></div> <!-- scroll tracker 2 -->
+			<div class="box_life"> 
+        		<ul class="list_berita_2"> 
+			    	<li class="title_new_4">
+			            <div class="satu"><span>Life</span>Style</div>
+			        </li>
+					<li> 
+				    <span class="date">Jumat, 17/04/2015 12:03 WIB</span>
+				    <div class="clearfix"></div>
+						<h6>Lipsus Khusus Persaingan Cinta</h6>
+				    <h5 class="l_blue2_detik"><a href="http://wolipop.detik.com/?993301lifestyle">Tak Perlu Marah, Ini Cara Menyikapi Teman yang Juga Naksir Pria Incaran</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 12:02 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://health.detik.com/?993301lifestyle">Fenomena Langka Hujan Cacing Dilaporkan Terjadi di Norwegia</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:50 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://wolipop.detik.com/?993301lifestyle">Sitti Rahmah, Tak Patah Semangat Ubah Lahan Tidur Jadi Ladang Produktif</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:45 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://health.detik.com/?993301lifestyle">Wah! Ayah dan Anak Ini Punya Lidah Paling Lebar di Dunia</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:40 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://travel.detik.com/?993301lifestyle">Terpesona Indahnya Bendungan Sigura-gura</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:36 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://food.detik.com/?993301lifestyle">Demo Membuat <i>Dessert</i> dengan Teknik Molekuler Gastronomi Digelar di FHI 2015</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:32 WIB</span>
+				    <div class="clearfix"></div>
+						<h6>True Story</h6>
+				    <h5 class="l_blue2_detik"><a href="http://health.detik.com/?993301lifestyle">Agar Jadi Anak Laki-laki, Gadis Ini Jalani Terapi Hormon di Usia 10 Tahun</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:23 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://travel.detik.com/?993301lifestyle">Mau Mendaki Gunung Gede Via Jalur Cibodas? Kenali Dulu Posnya</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:14 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://wolipop.detik.com/?993301lifestyle">Zara Diskon Hingga 70%, <i>Dress</i> Mulai dari Rp 150 Ribu</a></h5> 
+				</li><li> 
+				    <span class="date">Jumat, 17/04/2015 11:08 WIB</span>
+				    <div class="clearfix"></div>
+						
+				    <h5 class="l_blue2_detik"><a href="http://health.detik.com/?993301lifestyle">Lewat Mata, Gejala Penyakit Alzheimer dan Demensia Bisa Diketahui</a></h5> 
+				</li>
+				</ul>
+			</div><div class="banner_reg cad_scr3"><script type="text/javascript">
+    google_ad_client = "ca-pub-6880533263535234";
+    google_ad_slot = "8384107077";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- BackFilling - detikcomWP - Showcase Right 3 -->
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><div id='beacon_7fc936918c' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=9119&amp;campaignid=3380&amp;zoneid=1096&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=7fc936918c' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div>		    <div class="emagz">
+                	<img class="pic" alt="Dongeng Selvi & Gibran" src="http://images.detik.com/customthumb/2015/04/11/1314/cover_176.jpg?w=120">
+			<div class="emagz_c">
+			    <a href="http://majalah.detik.com?993301md"><img style="border:0;" src="http://www.detik.com/image/logo_detikmag.png"></a>
+			    <h5 class="bold l_red_detik"><a href="http://majalah.detik.com?993301md" target="_blank">Dongeng Selvi & Gibran</a></h5>
+			    Calon menantu Jokowi, Selvi Ananda, mesti kerja sambilan buat menambah biaya kuliah. Sempat jadi presenter berita dan pramugari, nasib Selvi berubah setelah ikut pemilihan Putra Putri Solo 2009 dan memenanginya. 
+			    <div class="clearfix"></div>
+			    <a href="http://majalah.detik.com/cb/17a81712c4cab0a42bcef5adc62c6d4f/2015/20150413_MajalahDetik_176.pdf" class="dowload_mag fr" rel="" target="_blank">Download Edisi Terkini</a>
+			</div>
+			<div class="clearfix"></div>
+		    </div>
+		
+	 <div class="emagz male_mag mt15">
+		  <div align="center">
+			   <a href="http://male.detik.com?993301male" target="_blank">
+					<img width="130" height="" src="http://images.detik.com/detikcom/logo_male.png">
+			   </a>
+		  </div>
+		  <div class="clearfix"></div>
+		  <img class="pic" src="http://images.detik.com/customthumb/2015/04/14/1455/cover_129_lina_marlina_sukar_cemburu.jpg?w=150">
+		  <div class="emagz_c">
+			  <h6>Edisi 129  | 17-24 APR 2015</h6>
+			  <h5 class="bold l_yellow_detik">
+				  <a class="male_download" alt="" href="http://male.detik.com/read/2015/04/14/184005/2887334/1455/lina-marlina---sukar-cemburu?993301male" target="_blank">Lina Marlina - Sukar Cemburu</a>
+			  </h5>
+			  <div>
+				  LIGHTS ON:Nayla Lisa - Pria Harus Kebal Kritik.MALE ZONE:Flood Bloger, Profesi Icip-icip.FACE TO FACE:Andi Gilang - Naikkan Merah Putih di Qatar.INTIMATE:Onani, Tak Boleh Terlalu Sering!
+			  </div>
+		  </div>
+		  <div class="clearfix"></div>
+		  <a class="dowload_mag male_download" alt="" href="http://male.detik.com/read/2015/04/14/184005/2887334/1455/lina-marlina---sukar-cemburu?993301male" target="_blank">Download</a>
+		  <div class="clearfix"></div>
+	 </div>
+
+	<div class="new-mytrans">
+		<a href="http://www.mytrans.com/"><img height="25" src="image/logo_mytrans.png"></a>
+		<div class="mt_nav">
+			<span id="tab_2">
+				<a href="#mt_imb">myTrans Original </a>
+				<a href="#mt_last" class="selected">New</a>
+				<a href="#mt_most">Popular</a>
+			</span>
+			<a class="live" onclick="PopupCenter('http://www.mytrans.com/live?993301MyLiveTV', 'myPop1',1100,700);" href="javascript:void(0);">TV</a>
+		</div>
+		<div class="mt_cont">
+			<ul id="mt_imb" class=""><li>
+								<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/04/16/Stress_Management.jpg"></span>
+								<h6 class="l_white_detik f11 bold"><a href="#">Sehat Ala detikHealth</a></h6>
+								<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/39003/stress-management-disc?993301MyIMB">Stress Management DISC</a></h5>
+								<div class="clearfix"></div>
+							</li><li>
+								<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/04/16/MARISSAANITA-INT.jpg"></span>
+								<h6 class="l_white_detik f11 bold"><a href="#">Wolipop</a></h6>
+								<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/39002/jujur-pada-diri-sendiri-adalah-rahasia-hidup-bahagia-ala-marissa-anita?993301MyIMB">Jujur Pada Diri Sendiri Adalah Rahasia Hidup Bahagia Ala Marissa Anita</a></h5>
+								<div class="clearfix"></div>
+							</li><li>
+								<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/04/14/Screen-Shot-2015-04-14-at-10.06_.19-PM_.jpg"></span>
+								<h6 class="l_white_detik f11 bold"><a href="#">DetikOto Coverage</a></h6>
+								<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/38995/memacu-adrenalin-dengan-ferarri-california-t?993301MyIMB">Memacu Adrenalin Dengan Ferarri California T</a></h5>
+								<div class="clearfix"></div>
+							</li></ul>
+			<ul id="mt_last" class="none"><li>
+									<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/04/16/Stress_Management.jpg"></span>
+									<h6 class="l_white_detik f11 bold"><a href="#">Sehat Ala detikHealth</a></h6>
+									<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/39003/stress-management-disc?993301MyLatest">Stress Management DISC</a></h5>
+									<div class="clearfix"></div>
+								</li><li>
+									<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/04/16/MARISSAANITA-INT.jpg"></span>
+									<h6 class="l_white_detik f11 bold"><a href="#">Wolipop</a></h6>
+									<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/39002/jujur-pada-diri-sendiri-adalah-rahasia-hidup-bahagia-ala-marissa-anita?993301MyLatest">Jujur Pada Diri Sendiri Adalah Rahasia Hidup Bahagia Ala Marissa Anita</a></h5>
+									<div class="clearfix"></div>
+								</li><li>
+									<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/04/16/05b1a936548492963fe2cbf3b2f6a133"></span>
+									<h6 class="l_white_detik f11 bold"><a href="#"></a></h6>
+									<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/39001/jurus-sederhana-raden-mas-purba-wijaya?993301MyLatest">Jurus sederhana Raden Mas Purba Wijaya</a></h5>
+									<div class="clearfix"></div>
+								</li></ul>
+			<ul id="mt_most" class="none"><li>
+								<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/03/23/BLOG-DETIK.jpg"></span>
+								<h6 class="l_white_detik f11 bold"><a href="#">Promo</a></h6>
+								<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/38930/tutorial-blog-detik-2015?993301MyMP">Tutorial Blog Detik 2015</a></h5>
+								<div class="clearfix"></div>
+							</li><li>
+								<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/03/20/MASAK-APA-OMELET-BIHUN.jpg"></span>
+								<h6 class="l_white_detik f11 bold"><a href="#">Masak Apa</a></h6>
+								<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/38927/-resep-anak--omelet-bihun-sayuran?993301MyMP">[Resep Anak] Omelet Bihun Sayuran</a></h5>
+								<div class="clearfix"></div>
+							</li><li>
+								<span class="pic"><img src="http://www.mytrans.com/wh/100/200/static/thumbnails/2015/03/27/MASAK-APA-RIGATONI-VEGGIE.jpg"></span>
+								<h6 class="l_white_detik f11 bold"><a href="#">Masak Apa</a></h6>
+								<h5 class="l_yellow_detik bold f13"><a href="http://www.mytrans.com/video/38947/rigatoni-veggie?993301MyMP">Rigatoni Veggie</a></h5>
+								<div class="clearfix"></div>
+							</li></ul>
+		</div>
+	</div>
+	<br /><br />
+<div class="banner_reg cad_scr4">
+<div id='ox_0f99e91f558c9a64bd881fceee7a25ed' style='display: inline;'><img src='http://newopenx.detik.com/images/1x1.gif' alt='' title='' border='0' /></div>
+<script type='text/javascript'><!--// <![CDATA[
+    var ox_swf = new FlashObject('http://newopenx.detik.com/images/ccfc1dbe63a5ca5e991437f634d32e54.swf', 'Advertisement', '300', '250', '9');
+    ox_swf.addVariable('clickTARGET', '_blank');
+    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fnewopenx.detik.com%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D11298__zoneid%3D320__cb%3D896e75c674__oadest%3Dhttp%253A%252F%252Fwww.dpr.go.id%252F');
+
+    ox_swf.addParam('allowScriptAccess','always');
+    ox_swf.write('ox_0f99e91f558c9a64bd881fceee7a25ed');
+    if (ox_swf.installedVer.versionIsValid(ox_swf.getAttribute('version'))) { var ox_swf_dtk_banner = document.getElementById('ox_0f99e91f558c9a64bd881fceee7a25ed'); var ox_swf_dtk_beacon = "<div id='beacon_896e75c674' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11298&amp;campaignid=4115&amp;zoneid=320&amp;loc=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=896e75c674' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>"; ox_swf_dtk_banner.innerHTML = ox_swf_dtk_banner.innerHTML + ox_swf_dtk_beacon; }
+// ]]> --></script></div><iframe scrolling='no' noresize marginheight='0' marginwidth='0' frameborder='0' width='300' height='293' src='http://channelbox.iklanbaris.detik.com/chanel_boxs/11/5/5'></iframe>
+</div>
+            <div class="clearfix"></div> 
+            <div class="banner_center cad_hrz1"> 
+
+<div id='ox_fd952f3176e315af1f7f4ee537d3dcae' style='display: inline;'><img src='http://newopenx.detik.com/images/1x1.gif' alt='' title='' border='0' /></div>
+<script type='text/javascript'><!--// <![CDATA[
+    var ox_swf = new FlashObject('http://newopenx.detik.com/images/11bc1db0acd542d24ce5efcf03482a5a.swf', 'Advertisement', '960', '100', '9');
+    ox_swf.addVariable('clickTARGET', '_blank');
+    ox_swf.addVariable('clickTAG', 'http%3A%2F%2Fnewopenx.detik.com%2Fdelivery%2Fck.php%3Foaparams%3D2__bannerid%3D11575__zoneid%3D325__cb%3D606a214587__oadest%3Dhttp%253A%252F%252Fpromo.lintasarta.net');
+
+    ox_swf.addParam('allowScriptAccess','always');
+    ox_swf.write('ox_fd952f3176e315af1f7f4ee537d3dcae');
+    if (ox_swf.installedVer.versionIsValid(ox_swf.getAttribute('version'))) { var ox_swf_dtk_banner = document.getElementById('ox_fd952f3176e315af1f7f4ee537d3dcae'); var ox_swf_dtk_beacon = "<div id='beacon_606a214587' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11575&amp;campaignid=4118&amp;zoneid=325&amp;loc=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=606a214587' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>"; ox_swf_dtk_banner.innerHTML = ox_swf_dtk_banner.innerHTML + ox_swf_dtk_beacon; }
+// ]]> --></script></div>
+            <div class="clearfix"></div>
+            <div id="equalize">
+                <div class="box_kiri fl">
+<div class="banner_reg cad_scl3"><a href='http://newopenx.detik.com/delivery/ck.php?oaparams=2__bannerid=11609__zoneid=324__cb=fb53adf6f6__oadest=http%3A%2F%2Fwww.mobil88.astra.co.id%2F' target='_blank'><img src='http://newopenx.detik.com/images/834ad6d987f205544bcad357b955679e.gif' width='300' height='250' alt='' title='' border='0' /></a><div id='beacon_fb53adf6f6' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11609&amp;campaignid=4226&amp;zoneid=324&amp;loc=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=fb53adf6f6' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div></div>
+                <div class="box_tengah fl">
+    <!-- S:SEREMONIAL --> 
+<div class="seremonial"> 
+	<div class="title"> 
+		<strong>Seremonial</strong> 
+		<div id="pag_sere" class="fr"></div> 
+		<div class="clearfix"></div> 	
+	</div> 
+	<ul id="seremonial"> 
+			<li> 
+			<div class="img_area_sere"><img src="http://o.detik.com/images/cms_etalase_images/seremonia/cover_o172_c148.gif" alt="seremonia_172_148"/></div> 
+			<h5 class="l_blue2_detik linkbg"><a href="http://o.detik.com/link/cms_etalase_link/ad-seremonia-148.ad" alt="seremonia_172_148">Publikasikan Kegiatan Anda Atau Perusahaan Anda Di Seremonial Detikcom</a></h5>
+		</li>
+		</ul> 
+</div> 
+<!-- E:SERIMONIAL --></div>
+                <div class="box_kanan fr">
+<div class="banner_reg cad_scr5"><a href='http://newopenx.detik.com/delivery/ck.php?oaparams=2__bannerid=11208__zoneid=321__cb=23eea9ac1e__oadest=http%3A%2F%2Fkotaharapanindah.com%2Four-products%2Fsamata%2F' target='_blank'><img src='http://newopenx.detik.com/images/291a0d07ff5a9f2863f19eddb38b9188.gif' width='300' height='250' alt='' title='' border='0' /></a><div id='beacon_23eea9ac1e' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11208&amp;campaignid=4070&amp;zoneid=321&amp;loc=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=23eea9ac1e' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div></div>
+            </div>
+            <div class="box_kiri fl f_article f_article2">
+			<div class="box_4">
+				<div class="title_feature"> 
+					<div class="titleinsd">Feature Articles</div> 
+				</div>
+				<ul>
+					<li class="first">
+					<div class="img1f">
+						<a href="http://hot.detik.com/read/2015/04/17/105748/2890171/1059/keren-grafiti-3d-ini-seperti-keluar-dari-tembok?880006fa"><img src="http://images.detik.com/content/2015/04/17/1059/odeith_cvr.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_hot labelft1">detikHot</div>
+					<div class="title_frt1"><a href="http://hot.detik.com/read/2015/04/17/105748/2890171/1059/keren-grafiti-3d-ini-seperti-keluar-dari-tembok?880006fa">Keren! Grafiti 3D Ini Seperti Keluar dari Tembok</a></div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://health.detik.com/read/2015/04/17/103132/2890142/763/bukan-kecapekan-ngorok-juga-bisa-disebabkan-5-masalah-kesehatan-ini?880006fa"><img src="http://images.detik.com/content/2015/04/17/763/cover.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_health labelft2">detikHealth</div>
+					<div class="title_frt">
+						<a href="http://health.detik.com/read/2015/04/17/103132/2890142/763/bukan-kecapekan-ngorok-juga-bisa-disebabkan-5-masalah-kesehatan-ini?880006fa">Bukan Kecapekan, <i>Ngorok</i> Juga Bisa Disebabkan 5 Masalah Kesehatan Ini</a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://news.detik.com/read/2015/04/17/101622/2890122/10/cerita-rio-pembunuh-tataa-chubby-antara-cinta-istri-dan-nafsu-penasaran?880006fa"><img src="http://images.detik.com/content/2015/04/17/10/102010_081451_191050_deudeuh2.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_news labelft2">detikNews</div>
+					<div class="title_frt">
+						<a href="http://news.detik.com/read/2015/04/17/101622/2890122/10/cerita-rio-pembunuh-tataa-chubby-antara-cinta-istri-dan-nafsu-penasaran?880006fa">Cerita Rio Pembunuh 'Tataa Chubby': Antara Cinta Istri dan Nafsu Penasaran</a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://oto.detik.com/read/2015/04/17/100231/2890104/1596/6-pesohor-dunia-dengan-mobil-yang-sederhana?880006fa"><img src="http://images.detik.com/content/2015/04/17/1596/1.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_oto labelft2">detikOto</div>
+					<div class="title_frt">
+						<a href="http://oto.detik.com/read/2015/04/17/100231/2890104/1596/6-pesohor-dunia-dengan-mobil-yang-sederhana?880006fa">6 Pesohor Dunia dengan Mobil yang Sederhana</a>
+					</div>
+				</li><li class="mid_m">
+					<div class="img2f">
+					  <a href="http://oto.detik.com/read/2015/04/17/090240/2890040/1216/kencan-instan-bersama-ferrari-california-t?880006fa"><img src="http://images.detik.com/content/2015/04/17/1216/090421_ferrari1.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_oto labelft2">detikOto</div>
+					<div class="title_frt">
+						<a href="http://oto.detik.com/read/2015/04/17/090240/2890040/1216/kencan-instan-bersama-ferrari-california-t?880006fa">Kencan Instan Bersama Ferrari California T</a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://hot.detik.com/read/2015/04/17/083734/2890023/230/wayne-rooney-foto-mesra-dengan-keluarga-miley-cyrus-ekspos-payudara?880006fa"><img src="http://images.detik.com/content/2015/04/17/230/mcvr.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_hot labelft2">detikHot</div>
+					<div class="title_frt">
+						<a href="http://hot.detik.com/read/2015/04/17/083734/2890023/230/wayne-rooney-foto-mesra-dengan-keluarga-miley-cyrus-ekspos-payudara?880006fa">Wayne Rooney Foto Mesra dengan Keluarga, Miley Cyrus Ekspos Payudara</a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://news.detik.com/read/2015/04/17/083601/2890021/10/ini-cara-ahok-djarot-cegah-kos-mewah-jadi-sangkar-emas-kupu-kupu-malam?880006fa"><img src="http://images.detik.com/content/2015/04/17/10/djarot.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_news labelft2">detikNews</div>
+					<div class="title_frt">
+						<a href="http://news.detik.com/read/2015/04/17/083601/2890021/10/ini-cara-ahok-djarot-cegah-kos-mewah-jadi-sangkar-emas-kupu-kupu-malam?880006fa">Ini Cara Ahok-Djarot Cegah Kos Mewah Jadi 'Sangkar Emas' Kupu-kupu Malam</a>
+					</div>
+				</li><li class="mid_m">
+					<div class="img2f">
+					  <a href="http://food.detik.com/read/2015/04/17/081723/2890005/900/bukan-hanya-kopi-5-makanan-dan-minuman-ini-juga-mengandung-kafein?880006fa"><img src="http://images.detik.com/content/2015/04/17/900/thinkstockphotos122407536.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_food labelft2">detikFood</div>
+					<div class="title_frt">
+						<a href="http://food.detik.com/read/2015/04/17/081723/2890005/900/bukan-hanya-kopi-5-makanan-dan-minuman-ini-juga-mengandung-kafein?880006fa">Bukan Hanya Kopi, 5 Makanan dan Minuman Ini Juga Mengandung Kafein</a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://inet.detik.com/read/2015/04/17/071605/2889924/406/xiaomi-redmi-2-ada-peningkatan-tapi-masih-ngos-ngosan?880006fa"><img src="http://images.detik.com/content/2015/04/17/406/redmi2d.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_inet labelft2">detikInet</div>
+					<div class="title_frt">
+						<a href="http://inet.detik.com/read/2015/04/17/071605/2889924/406/xiaomi-redmi-2-ada-peningkatan-tapi-masih-ngos-ngosan?880006fa">Xiaomi Redmi 2: Ada Peningkatan Tapi Masih <i>Ngos-ngosan</i></a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://hot.detik.com/read/2015/04/17/072529/2889928/230/nikita-mirzani-pamer-foto-seksi-pamela-buka-suara-soal-foto-topless?880006fa"><img src="http://images.detik.com/content/2015/04/17/230/210602_serigala.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_hot labelft2">detikHot</div>
+					<div class="title_frt">
+						<a href="http://hot.detik.com/read/2015/04/17/072529/2889928/230/nikita-mirzani-pamer-foto-seksi-pamela-buka-suara-soal-foto-topless?880006fa">Nikita Mirzani Pamer Foto Seksi, Pamela Buka Suara Soal Foto Topless</a>
+					</div>
+				</li><li class="mid_m">
+					<div class="img2f">
+					  <a href="http://finance.detik.com/read/2015/04/17/065831/2889919/1034/mengintip-rencana-pertamina-hapus-bensin-premium-bulan-depan?880006fa"><img src="http://images.detik.com/content/2015/04/17/1034/premium.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_finance labelft2">detikFinance</div>
+					<div class="title_frt">
+						<a href="http://finance.detik.com/read/2015/04/17/065831/2889919/1034/mengintip-rencana-pertamina-hapus-bensin-premium-bulan-depan?880006fa">Mengintip Rencana Pertamina Hapus Bensin Premium Bulan Depan</a>
+					</div>
+				</li><li>
+					<div class="img2f">
+					  <a href="http://food.detik.com/read/2015/04/16/180001/2889668/297/inilah-6-variasi-ayam-goreng-populer-dari-amerika?880006fa"><img src="http://images.detik.com/content/2015/04/16/297/ayamamerikacover.jpg" /></a>
+					</div>
+					<div class="label_ft lbl_food labelft2">detikFood</div>
+					<div class="title_frt">
+						<a href="http://food.detik.com/read/2015/04/16/180001/2889668/297/inilah-6-variasi-ayam-goreng-populer-dari-amerika?880006fa">Inilah 6 Variasi Ayam Goreng Populer dari Amerika</a>
+					</div>
+				</li>
+				</ul>
+			</div>
+		</div>
+            <div class="box_kanan fr">
+                <!-- S:ETALASE --> 
+<div class="etalase etalase_bgalt"> 
+  <div class="title">Etalase</div> 
+  <ul class="list_berita_3"> 
+        <li> 
+        <div class="l_red_detik f14"><a href="http://o.detik.com/link/cms_etalase_link/ad-etalase-389.ad" alt="etalase_415_389">Pasang Iklan Mobil Di Detikcom FREE</a></div> 
+        <div class="clearfix pt10"></div>
+        <img src="http://o.detik.com/images/cms_etalase_images/etalase/cover_o415_c389.jpg " alt="etalase_415_389" class="etalase" /> 
+        Jual Mobil Kesayangan Anda Di Detikcom Kini FREE. Tidak Ada Biaya Sama Sekali. Iklan Anda Dilihat Oleh Jutaan Pembaca Detikcom.        <div class="clearfix"></div> 
+        <div class="bb"></div>
+        <div class="clearfix"></div> 
+      </li>
+        <li> 
+        <div class="l_red_detik f14"><a href="http://o.detik.com/link/cms_etalase_link/ad-etalase-193.ad" alt="etalase_217_193">Beriklan Di Etalase</a></div> 
+        <div class="clearfix pt10"></div>
+        <img src="http://o.detik.com/images/cms_etalase_images/etalase/cover_o217_c193.gif " alt="etalase_217_193" class="etalase" /> 
+        Layanan Kanal Komersil Dari Detikcom Untuk Melakukan Publikasi Tentang Aktivitas-Aktivitas Promosi Produk Di Media Internet.        <div class="clearfix"></div> 
+        <div class="bb"></div>
+        <div class="clearfix"></div> 
+      </li>
+        <li> 
+        <div class="l_red_detik f14"><a href="http://o.detik.com/link/cms_etalase_link/ad-etalase-199.ad" alt="etalase_223_199">Bayar 50rb Iklan Anda Tayang 7hr Di Detikcom</a></div> 
+        <div class="clearfix pt10"></div>
+        <img src="http://o.detik.com/images/cms_etalase_images/etalase/cover_o223_c199.gif " alt="etalase_223_199" class="etalase" /> 
+        - Harga Iklan Yang Murah<br>- Terdiri Dari 1110 Karakter<br>- Dibaca Oleh Jutaan Pembaca Detikcom        <div class="clearfix"></div> 
+        <div class="bb"></div>
+        <div class="clearfix"></div> 
+      </li>
+      
+  </ul> 
+</div> 
+<!-- E:ETALASE --> 
+        <div class="box_3a" id="bbcindonesia">
+		<div class="head"></div>
+		<div class="contentbbc">
+			<div class="healinebbc">
+
+			<div class="date">Jumat, 17/04/2015 12:04 WIB</div>
+
+			<h5><a href="http://news.detik.com/read/2015/04/17/111509/2890246/934/wikileaks-terbitkan-dokumen-sony?881101934" title="Wikileaks Terbitkan Dokumen Sony">Wikileaks Terbitkan Dokumen Sony</a></h5>
+			</div>
+
+			<ul>
+				<li>
+					<div class="date">Jumat, 17/04/2015 03:30 WIB</div>
+
+					<h5><a href="http://news.detik.com/read/2015/04/17/033040/2890245/934/debat-pemilu-inggris-pimpinan-partai-buruh-dituduh-penakut?881101934">Debat Pemilu Inggris, Pimpinan Partai Buruh Dituduh Penakut</a></h5>
+				</li>
+
+				<li>
+					<div class="date">Jumat, 17/04/2015 02:54 WIB</div>
+
+					<h5><a href="http://news.detik.com/read/2015/04/17/025451/2889898/934/isis-warga-australia-ancaman-serius?881101934">ISIS Warga Australia Ancaman Serius</a></h5>
+				</li>
+			</ul>
+		</div>
+		<span class="sariberita l_red_detik"><a target="_blank" href="http://www.bbc.co.uk/indonesia/">Sari Berita</a></span>
+        </div>
+	<div class="footerbbc"><a href="http://www.bbc.co.uk/indonesia/" target="_blank"><img src="http://www.detiknews.com/image/footerbbc.gif" alt="BBC" border="0" /></a></div>
+            </div>
+            <div class="clearfix"></div>
+            <hr noshade="noshade">
+            <div id="equalize">
+                <div class="box_kiri fl">
+    <div class="box_4 h0"> 
+    <div class="title"> 
+	<a href="http://news.detik.com?880005471"><strong>Opini<span>Anda</span></strong></a>
+	<span class="l_grey1"><a href="http://news.detik.com?880005471">Index &raquo;</a></span> 
+    </div> 
+    <ul class="list_berita_3"> 
+	<li> 
+    <span class="date">Jumat, 17/04/2015 05:20 WIB</span> 
+    <h5 class="l_blue2_detik"><a href="http://news.detik.com?880005471">Halim, Layak Menjadi Pusat Kantor Pemerintahan RI</a></h5> 
+    <img src="http://images.detik.com/customthumb/2015/04/17/471/sahatsitorus.jpg?w=75" width="60" height="60">    Ditengarai, salah satu penyebab kemacetan lalu lintas di Ibukota yang semakin memburuk ialah tersebarnya lokasi kantor pemerintah Pusat di Jakarta.
+    <div class="clearfix"></div> 
+</li> 
+    </ul> 
+</div>
+</div> <div class="box_tengah fl">
+    <div class="box_4 h0"> 
+                	<div class="title"> 
+                		<strong>Detik<span>Forum</span></strong> 
+                		<span class="l_grey1 reg"><a href="http://forum.detik.com/?883306frm">Register</a> | <a href="http://forum.detik.com/register.php?883306frm">Login</a></span> 
+                	</div> 
+                	<div class="l_red_detik tahoma f12 bold pt5"><u>Thread Pilihan</u></div> 
+                	
+ 			
+                	
+                	<ul class="list_berita_3 "> 
+                    	<li> 
+			    <img src="http://images.detik.com/community/forum/wp/images/slide_terpopuler/slide_terpopuler-1429244889-jokowi-detik.jpg" alt="Forum Detik">
+			  
+                            <span class="date">Jumat, 17/04/2015 11:16 WIB</span> 
+                            <h5 class="l_blue2_detik"><a href="http://forum.detik.com/jokowi-masuk-100-tokoh-paling-berpengaruh-2015-versi-time-t1175861.html?883306frm">Jokowi Masuk 100 Tokoh Paling Berpengaruh 2015</a></h5> 
+							<span class="l_green_detik f11">Posted by: rajaratu</span> 
+                            <div class="clearfix"></div> 
+                        </li> 
+                        	<li class="blogforumli"><h6 class="l_red_detik"><a target="_blank" href="http://forum.detik.com/bensin-pertalite-pengganti-premium-yang-punya-ron-90-91-t1175349.html?883306frm" >Bensin Pertalite, Pengganti Premium yang Punya RON 90-91</a></h6></li>
+        					<li class="blogforumli"><h6 class="l_red_detik"><a target="_blank" href="http://forum.detik.com/batik-air-rute-jakarta-ambon-mendarat-karena-ancaman-bom-t1175836.html?883306frm" >Batik Air Mendarat karena Ancaman Bom</a></h6></li> 
+                    </ul> 
+                </div><div class="box_4 h0"> 
+    <div class="title"> 
+	<a href="http://suratbuncit.detik.com?880005238"><strong>Surat<span>Dari Buncit</span></strong></a>
+	<span class="l_grey1"><a href="http://suratbuncit.detik.com?880005238">Index &raquo;</a></span> 
+    </div> 
+    <ul class="list_berita_3"> 
+	<li> 
+    <span class="date">Rabu, 25/03/2015 12:00 WIB</span> 
+    <h5 class="l_blue2_detik"><a href="http://suratbuncit.detik.com?880005238">Blogdetik Eksis dengan Tampilan dan Platform Baru</a></h5> 
+    <img src="http://images.detik.com/customthumb/2015/03/25/238/blog1.jpg?w=75" width="60" height="60">    Blogdetik hadir dengan platform baru buatan detikcom. Perubahan ini dibarengi dengan tampilan dan fitur-fitur baru. Keren!
+    <div class="clearfix"></div> 
+</li> 
+    </ul> 
+</div>
+</div> <div class="box_kanan fr">
+    
+<div class="box_4 h0"> 
+                	<div class="title"> 
+                		<strong>Blog<span>Detik</span></strong>  
+                		<span class="l_grey1 reg"><a href="http://blogdetik.com/wp-signup.php">Register</a> | <a href="http://blogdetik.com/wp-login.php">Login</a></span> 
+                	</div> 
+                	<div class="l_red_detik tahoma f12 bold pt5"><u>Blog Star</u></div> 
+                	<ul class="list_berita_3"> 
+                    	<li> 
+                			<img src="http://images.detik.com/content/blogdetik/wp_avatars_1.png" alt="Blogstar"/>
+                            <span class="date">Selasa, 31/03/2015 15:48 WIB</span> 
+                            <h5 class="l_blue2_detik"><a href="http://andichairil.blogdetik.com/karena-wudhu-setan-tertinggal-di-luar/">Karena Wudhu, Setan Tertinggal Di Luar </a></h5> 
+							<span class="l_green_detik f11">Posted by: Blogdetik</span> 
+                            <div class="clearfix"></div> 
+                        </li> 
+                         
+
+                                    
+                        <li> 
+                            <h6 class="l_blue2_detik"><a href="http://blogdetik.com/2015/03/22/blogger-memahami-memahami-kebebasan-berpendapat-di-sunday-sharing-15/">Blogger Belajar Memahami Kebebasan Berpendapat di Sunday Sharing #15</a></h6> 
+                        </li> 
+                                    
+                        <li> 
+                            <h6 class="l_blue2_detik"><a href="http://andichairil.blogdetik.com/kian-modar-karena-pajak-jalan-tol/">Kian Modar Karena (Pajak) Jalan Tol</a></h6> 
+                        </li> 
+                        
+                    </ul> 
+                </div><div class="box_4 h0"> 
+    <div class="title"> 
+	<a href="http://suarapembaca.detik.com?880005470"><strong>Suara<span>Pembaca</span></strong></a>
+	<span class="l_grey1"><a href="http://suarapembaca.detik.com?880005470">Index &raquo;</a></span> 
+    </div> 
+    <ul class="list_berita_3"> 
+	<li> 
+    <span class="date">Jumat, 17/04/2015 08:39 WIB</span> 
+    <h5 class="l_blue2_detik"><a href="http://suarapembaca.detik.com?880005470">Handling Komplain Nomor Matrix Mengecewakan</a></h5> 
+    <img src="http://images.detik.com/customthumb/2015/04/17/283/lucy.jpg?w=75" width="60" height="60">    Saya adalah pengguna nomor Matrix Indosat sejak tahun 2007. Sebelumnya saya merasa puas dengan layanan yang diberikan oleh Indosat.
+    <div class="clearfix"></div> 
+</li> 
+    </ul> 
+</div>
+</div>
+                <div class="clearfix"></div> 
+            </div>
+            <div class="footer_banner cad_hrz2" style="text-align:center;"> 
+                            </div>
+        </div>
+    <div class="zona6_wp_detik"></div>
+    <div id="footer_detik" class="foot_1">
+<div class="container2">
+        <img class="fl" src="image/logo_bot_1.gif">
+        <img class="fr" src="image/logo_bot_2.gif">
+        <div class="clearfix"></div>
+</div>
+</div>
+    <div class="foot_2">
+    <div class="container2">
+<div class="satu"><a target="_blank" href="http://apps.detik.com/"><img alt="" src="http://detik.net.id/detik/image/appcom.png" /></a></div>
+<div class="link_bot" id="kanal">
+<ul id="slide_kanal">
+    <li><strong> 		    <a href="http://news.detik.com">detikNews</a> 		</strong> 		<a href="http://news.detik.com/kanal/10/berita">&middot; Berita</a> 		<a href="http://news.detik.com/kanal/1148/internasional">&middot; Internasional</a> 		<a href="http://news.detik.com/kanal/103/kolom">&middot; Kolom</a> 		<a href="http://news.detik.com/kanal/158/wawancara">&middot; Wawancara</a> 		<a href="http://news.detik.com/kanal/159/laporan-khusus">&middot; Lapsus</a> 		<a href="http://news.detik.com/kanal/608/tokoh">&middot; Tokoh</a> 		<a href="http://news.detik.com/prokontra">&middot; Pro Kontra</a> 		<a href="http://news.detik.com/indekstokoh/A/1">&middot; Profil</a> 		<a href="http://news.detik.com/indeks">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://sport.detik.com">detikSport</a> 		</strong>                      		<a href="http://sport.detik.com/kanal/78/basket">&middot; Basket</a> 		<a href="http://sport.detik.com/kanal/81/moto-gp">&middot; MotoGP</a> 		<a href="http://sport.detik.com/kanal/80/f1">&middot; F1</a> 		<a href="http://sport.detik.com/kanal/79/raket">&middot; Raket</a> 		<a href="http://sport.detik.com/sepakbola/">&middot; Sepakbola</a> 		<a href="http://sport.detik.com/kanal/82/sport-lain">&middot; Sport Lain</a> 		<a href="http://sport.detik.com/foto">&middot; Galeri</a> 		<a href="http://sport.detik.com/indekstokoh/A/1">&middot; Profil</a> 		<a href="http://sport.detik.com/fansarea">&middot; Fans Area</a> 		<a href="http://sport.detik.com/indeks">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://sport.detik.com/sepakbola">Sepakbola</a> 		</strong> 		<a href="http://sport.detik.com/sepakbola/kanal/71/italia">&middot; Italia</a> 		<a href="http://sport.detik.com/sepakbola/kanal/72/inggris">&middot; Inggris</a> 		<a href="http://sport.detik.com/sepakbola/kanal/75/spanyol">&middot; Spanyol</a> 		<a href="http://sport.detik.com/sepakbola/kanal/74/jerman">&middot; Jerman</a> 		<a href="http://sport.detik.com/sepakbola/kanal/76/indonesia">&middot; Indonesia</a> 		<a href="http://sport.detik.com/sepakbola/kanal/1033/uefa">&middot; Uefa</a> 		<a href="http://sport.detik.com/sepakbola/kanal/73/bola-dunia">&middot; Bola Dunia</a> 		<a href="http://sport.detik.com/sepakbola/fansarea">&middot; Fans Area</a> 		<a href="http://sport.detik.com/sepakbola/indeks">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://oto.detik.com">detikOto</a> 		</strong> 		<a href="http://oto.detik.com/kanal/1207/berita-mobil">&middot; Mobil</a> 		<a href="http://oto.detik.com/kanal/1208/berita-motor">&middot; Motor</a> 		<a href="http://oto.detik.com/kanal/642/pojok-modifikasi">&middot; Modifikasi</a> 		<a href="http://oto.detik.com/kanal/641/tipsntrik">&middot; Tips &amp; Trik</a> 		<a href="http://oto.detik.com/konsultasi">&middot; Konsultasi</a> 		<a href="http://oto.detik.com/kanal/1219/komunitas">&middot; Komunitas</a> 		<a href="http://oto.detik.com/kanal/1215/ototest">&middot; OtoTest</a> 		<a href="http://oto.detik.com/foto">&middot; Galeri</a> 		<a href="http://oto.detik.com/video">&middot; Video</a> 		<a href="http://forum.detik.com/otomotif-f32.html">&middot; Forum</a> 		<a href="http://oto.detik.com/indeks">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://hot.detik.com">detikHot</a> 		</strong> 		<a href="http://hot.detik.com/kanal/208/celebs">&middot; Celebs</a>                      		<a href="http://hot.detik.com/music/">&middot; Music</a> 		<a href="http://hot.detik.com/movie/">&middot; Movie</a> 		<a href="http://hot.detik.com/kanal/1017/art">&middot; Art</a> 		<a href="http://hot.detik.com/foto">&middot; Gallery</a> 		<a href="http://hot.detik.com/indekstokoh/A/1">&middot; Profile</a> 		<a href="http://hot.detik.com/music/kpop">&middot; KPOP</a> 		<a href="http://forum.detik.com/forumdisplay.php?f=13">&middot; Forum</a> 		<a href="http://hot.detik.com/indeks">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://inet.detik.com">detikInet</a> 		</strong> 		<a href="http://inet.detik.com/kanal/1010/news">&middot; News</a> 		<a href="http://inet.detik.com/kanal/1011/gadget">&middot; Gadget</a> 		<a href="http://inet.detik.com/kanal/653/games">&middot; Games</a> 		<a href="http://inet.detik.com/fotostop">&middot; Fotostop</a> 		<a href="http://inet.detik.com/klinikit">&middot; Klinik IT</a> 		<a href="http://inet.detik.com/kanal/1151/ngopi">&middot; Ngopi</a> 		<a href="http://inet.detik.com/adsprodukpilihan">&middot; Produk Pilihan</a> 		<a href="http://forum.detik.com/forum-net-new-f21.html">&middot; Forum</a> 		<a href="http://inet.detik.com/indeks/">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://finance.detik.com">detikFinance</a> 		</strong> 		<a href="http://finance.detik.com/kanal/4/ekonomi">&middot; Ekonomi Bisnis</a> 		<a href="http://finance.detik.com/kanal/1035/finansial">&middot; Finansial</a> 		<a href="http://finance.detik.com/kanal/1016/properti">&middot; Properti</a> 		<a href="http://finance.detik.com/kanal/1034/energi">&middot; Energi</a> 		<a href="http://finance.detik.com/kanal/1036/industri">&middot; Industri</a> 		<a href="http://finance.detik.com/kanal/68/sosok">&middot; Sosok</a> 		<a href="http://finance.detik.com/kanal/480/peluang-usaha">&middot; Peluang Usaha</a> 		<a href="http://finance.detik.com/kanal/688/pajak">&middot; Pajak</a> 		<a href="http://finance.detik.com/konsultasi/458/perencanaan-keuangan">&middot; Konsultasi</a> 		<a href="http://finance.detik.com/foto">&middot; Foto</a> 		<a href="http://finance.detik.com/video">&middot; TV</a> 		<a href="http://finance.detik.com/indeks">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://health.detik.com">detikHealth</a> 		</strong> 		<a href="http://health.detik.com/kanal/1441/health-news">&middot; Health News</a> 		<a href="http://health.detik.com/kanal/1389/sexual-health">&middot; Sexual Health</a> 	<a href="http://health.detik.com/kanal/1409/diet">&middot; Diet</a>	<a href="http://health.detik.com/kanal/1074/ibu-anak">&middot; Ibu &amp; Anak</a> 		<a href="http://health.detik.com/kanal/757/konsultasi">&middot; Konsultasi</a> 		<a href="http://health.detik.com/healthcalculator">&middot; Health Calculator</a> 		<a href="http://health.detik.com/fotobalitaanda">&middot; Foto Balita</a> 	<a href="http://health.detik.com/banknamabayi">&middot; Bank Nama Bayi</a>	<!--<a href="http://forum.detikhealth.com">&middot; Forum</a> 		<a href="http://health.detik.com/indeks">&middot; Indeks</a>--></li>
+    <li><strong> 		    <a href="http://travel.detik.com">detikTravel</a> 		</strong> 		<a href="http://travel.detik.com/kanal/1382/travel-news">&middot; Travel News</a> 		<a href="http://travel.detik.com/kanal/1383/destinations">&middot; Destinations</a> 		<a href="http://travel.detik.com/kanal/1026/dtravelers-photos">&middot; Photos</a> 		<a href="http://travel.detik.com/dtrips">&middot; d'Trips</a>		<a href="http://hotels.travel.detik.com">&middot; Hotels</a> 		<a href="http://flights.travel.detik.com">&middot; Flights</a> 		<a href="http://travel.detik.com/aci/">&middot; ACI</a> 		<a href="http://travel.detik.com/kanal/1025/ceritaperjalanan">&middot; d'Travelers Stories</a> 		<!--<a href="http://travel.detik.com/directory">&middot; Directories</a> 		<a href="http://travel.detik.com/indeks">&middot; Index</a>--></li>
+    <li><strong> 		    <a href="http://wolipop.detik.com">Wolipop</a> </strong><a href="http://wolipop.detik.com/kanal/836/fashion">&middot; Fashion</a> 		<a href="http://wolipop.detik.com/hotphotos">&middot; Photos</a> 		<a href="http://wolipop.detik.com/kanal/837/beauty">&middot; Beauty</a> 		<a href="http://wolipop.detik.com/kanal/838/love-and-sex">&middot; Love &amp; Sex</a> 		<a href="http://wolipop.detik.com/kanal/1132/home-and-family">&middot; Home &amp; Family</a> 		<a href="http://wolipop.detik.com/kanal/839/wedding">&middot; Wedding</a> 		<a href="http://wolipop.detik.com/kanal/1134/entertainment">&middot; Entertainment</a> 		<a href="http://wolipop.detik.com/kanal/1009/sale-and-shop">&middot; Sale &amp; Shop</a> 		<a href="http://wolipop.detik.com/kanal/840/hot-guide">&middot; Hot Guide</a> 		<a href="http://wolipop.detik.com/dlounge">&middot; d'Lounge</a> 		<a href="http://wolipop.detik.com/index">&middot; Indeks</a></li>
+    <li><strong> 		    <a href="http://food.detik.com">detikFood</a> 		</strong> 		<a href="http://food.detik.com/kanal/285/resep-pilihan?">&middot; Resep</a> 		<a href="http://food.detik.com/kanal/286/tempat-makan?">&middot; Tempat Makan</a> 		<a href="http://food.detik.com/kanal/293/kabar-kuliner?">&middot; Kabar Kuliner</a> 		<a href="http://food.detik.com/kanal/905/makanan-halal?">&middot; Halal</a> 		<a href="http://food.detik.com/komunitas?">&middot; Komunitas</a> 		<a href="http://forum.detikfood.com/food-f33.html?">&middot; Forum</a> 		<a href="http://food.detik.com/konsultasi?">&middot; Konsultasi</a> 		<a href="http://food.detik.com/galeri?">&middot; Galeri</a> 		<a href="http://food.detik.com/indeks?">&middot; Indeks</a></li>
+</ul>
+<div class="clearfix"></div>
+<span id="more_kanal"> 	    <span class="fl"><a href="#top">Back to Top</a></span> 	    <span class="more_kanal_1"><a id="k_next" href="#">Kanal Lainnya &raquo;</a></span> 	    <span class="more_kanal_2"><a id="k_prev" href="#">&laquo; Kanal Lainnya</a></span>
+<div class="clearfix"></div>
+</span></div>
+<div class="clearfix"></div>
+<div class="foot_4">
+<div class="link_bot2"><a href="http://iklanbaris.detik.com/">Iklan Baris</a>   	    &middot; <a href="http://blog.detik.com/">Blog</a>   	    &middot; <a href="http://forum.detik.com/">Forum</a>	    &middot; <a href="http://adpoint.detik.com/">adPoint</a> 	    &middot; <a href="http://microsite.detik.com/template-etalase-seremonial/copyright/seremonial/about.html">Seremonia</a> 	    &middot; <a href="http://sindikasiberita.detik.com/">Sindikasi</a> 	    &middot; <a href="http://infoiklan.detik.com/">Info Iklan</a> 	    &middot; <a href="http://suarapembaca.detik.com/">Suara Pembaca</a> 	    &middot; <a href="http://suratbuncit.detik.com/">Surat dari Buncit</a> 	    &middot; <a href="http://tv.detik.com/">detikTV</a> 	    &middot; <a href="http://alamatku.com/">Cari Alamat</a></div>
+<div class="link_bot2 copyright">Copyright &copy;  <script type="text/javascript">document.write(new Date().getFullYear());</script> detikcom, All Rights Reserved 	    &middot; <a href="http://dapur.detik.com/inside/1/redaksi">Redaksi</a> 	    &middot; <a href="http://dapur.detik.com/inside/2/pedoman-media-siber">Pedoman Media Siber</a> 	    &middot; <a href="http://microsite.detik.com/vacancy/">Karir</a> 	    &middot; <a href="http://dapur.detik.com/inside/3/kotakpos">Kotak Pos</a> 	    &middot; <a href="http://infoiklan.detik.com/?fuseaction=home.service">Info Iklan</a> 	    &middot; <a href="http://dapur.detik.com/inside/6/disclaimer">Disclaimer</a><!-- #*#FOLLOW#*# --></div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+    </div>
+  
+    <div id="bottomframe">
+	<div align="center" id="bottom_banner">
+		<div class="container_topbanner">
+			<span class="bottom_banner_close"><img src="http://detik.net.id/img-assets-slot/buttonclose_v1/btn_close.gif" /></span>
+			<IFRAME SRC="https://ad.doubleclick.net/adi/N5295.138259.DETIK.COM/B8546313.116149711;sz=980x50;ord=[timestamp]?" WIDTH=980 HEIGHT=50 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/adj/N5295.138259.DETIK.COM/B8546313.116149711;abr=!ie;sz=980x50;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="https://ad.doubleclick.net/jump/N5295.138259.DETIK.COM/B8546313.116149711;abr=!ie4;abr=!ie5;sz=980x50;ord=[timestamp]?">
+<IMG SRC="https://ad.doubleclick.net/ad/N5295.138259.DETIK.COM/B8546313.116149711;abr=!ie4;abr=!ie5;sz=980x50;ord=[timestamp]?" BORDER=0 WIDTH=980 HEIGHT=50 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME><div id='beacon_b52a12a769' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11559&amp;campaignid=4214&amp;zoneid=330&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=b52a12a769' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div>		</div>
+	</div>
+</div>
+
+</div>
+
+
+<script type="text/javascript" src="js/detik.js?0417"></script><script type="text/javascript" src="js/detik.ads.controller_2013.js?0417"></script><script type="text/javascript" src="js/detik.controller_2013.js?0417"></script>
+
+
+<!-- S: Source -->
+<script type='text/javascript' src='http://detik.net.id/ads/scrolltracker/scripts/detik.scrolltracker.js'></script>
+<!-- E: Source -->
+
+<!-- S: WP for Detikcom -->
+<script type='text/javascript' src='http://detik.net.id/ads/scrolltracker/scripts/detikcom/wp/caller.scrolltracker.js'></script>
+<!-- E: WP for Detikcom -->
+
+<script type="text/javascript"> 
+	/* $(function(){ $('#equalize').equalHeights(); }); */
+        
+</script>
+
+<script type="text/javascript"> 
+$("#adv2").idTabs(function(id,list,set){ 
+$("a",set).removeClass("selected") 
+.filter("[href='"+id+"']",set).addClass("selected"); 
+for(i in list) 
+    $(list[i]).hide(); 
+$(id).fadeIn(); 
+return false; 
+}); 
+$("#detiklokal").idTabs(function(id,list,set){ 
+$("a",set).removeClass("selected") 
+.filter("[href='"+id+"']",set).addClass("selected"); 
+for(i in list) 
+    $(list[i]).hide(); 
+$(id).fadeIn(); 
+return false; 
+}); 
+$("#tab_travel").idTabs(function(id,list,set){ 
+    $("a",set).removeClass("selected") 
+    .filter("[href='"+id+"']",set).addClass("selected"); 
+    for(i in list) 
+      $(list[i]).hide(); 
+    $(id).fadeIn(); 
+    return false; 
+  }); 
+</script>
+
+<!--[if IE 6]>
+<script type="text/javascript" language="javascript">
+$(document).ready(function()
+{
+    $(window).scroll(function()
+    {
+	    $('#navdetikid').css('top', $(window).scrollTop());
+	    $('.bg_ads').css('top', $(window).scrollTop());  
+            $('#top_banner').css('top', $(window).scrollTop());
+            adstt();
+    });
+});
+</script>
+<![endif]--> 
+
+   <style type="text/css">
+	.sto_banner_close{
+		display:block;
+		float:right;
+		cursor:pointer
+	}
+	.container_sto{
+		text-align:center;
+		width:980px;
+		height:1024px
+	}
+	#sto_banner{position:absolute;position:fixed;top:30px;padding:0;width:100%;z-index:200;_top:expression(eval(document.body.scrollTop));_position:absolute}div>div#sto_banner{position:fixed}
+    </style>
+    <!--S:STO BANNER-->
+    <div id="sto_banner" align="center" style="display: none;">
+	<div class="container_sto">
+	    <span class="sto_banner_close" style="position:relative;z-index:10;margin-top:10px; margin-right:5px;"><img src="http://detik.net.id/img-assets-slot/buttonclose_v1/btn_close.gif" /></span>
+	    <IFRAME SRC="http://ad.doubleclick.net/ddm/adi/N108410.138259DETIK.COM/B8686056.117438833;sz=980x600;ord=[timestamp]?" WIDTH=980 HEIGHT=600 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'>
+<SCRIPT language='JavaScript1.1' SRC="http://ad.doubleclick.net/ddm/adj/N108410.138259DETIK.COM/B8686056.117438833;abr=!ie;sz=980x600;ord=[timestamp]?">
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.doubleclick.net/ddm/jump/N108410.138259DETIK.COM/B8686056.117438833;abr=!ie4;abr=!ie5;sz=980x600;ord=[timestamp]?">
+<IMG SRC="http://ad.doubleclick.net/ddm/ad/N108410.138259DETIK.COM/B8686056.117438833;abr=!ie4;abr=!ie5;sz=980x600;ord=[timestamp]?" BORDER=0 WIDTH=980 HEIGHT=600 ALT="Advertisement"></A>
+</NOSCRIPT>
+</IFRAME><div id='beacon_89d58d8a3c' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://newopenx.detik.com/delivery/lg.php?bannerid=11614&amp;campaignid=4227&amp;zoneid=474&amp;loc=1&amp;referer=http%3A%2F%2Fdetik.comhttp%3A%2F%2Fwww.detik.com%2Findex.php&amp;cb=89d58d8a3c' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div><img src="http://ad.doubleclick.net/ddm/ad/N108410.138259DETIK.COM/B8686056.117438833;sz=980x600">	</div>
+    </div>
+    <!--E:STO BANNER-->
+    <script type="text/javascript">
+	$("#sto_banner").delay(3000).fadeIn();
+	$('#sto_banner').delay(13000).fadeOut(function(){
+		$("#sto_banner").remove();
+	});
+	$('.sto_banner_close').click(function(){
+		$("#sto_banner").remove();
+	});
+    </script>
+
+<script type="text/javascript" src="http://detik.net.id/etalaseseremonia/tracker_etalase_seremonia.js"></script>
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8443234" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8443234&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><!-- #S:IMSAKIYAH -->
+<script type='text/javascript' src='http://newopenx.detik.com/delivery/fl.js'></script><!-- S:SAMSUNG_TIME_SIGNAL --><!-- E:SAMSUNG_TIME_SIGNAL --><!-- #E:IMSAKIYAH -->
+</body> 
+</html> 
+<!-- 2015-04-17T12:12:01+07:00 --><!-- redis-r-->

@@ -1,0 +1,87 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300);
+html,body{
+	font-family: 'Raleway';
+	background-color:#E1E1E1;
+}
+
+.main-container{
+	background-color:#FFF;
+	padding-top:50px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	width:90%;
+	/* centered */
+	float: none;
+	margin:0 auto;
+	/*width:1024px;
+	min-width:1024px;*/
+}
+.login-container{
+	background-color:#FFF;
+	padding-top:50px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	max-width:400px;
+	/* centered */
+	float: none;
+	margin:0 auto;
+	/*width:1024px;
+	min-width:1024px;*/
+}
+
+.auth-container{margin:0;}
+.auth-head{text-align:center; font-size:32px;text-shadow:none;}
+.auth-login{
+	height:350px;
+	padding-left:0;
+	padding-right:0;
+}
+.auth-login div{
+	min-height:65px;
+}
+
+.auth-login .form-control{
+	height:40px;
+	border-radius:0;
+}
+
+.auth-login .btn-login{
+	background-color:#fff;
+	border-radius:0px;
+	border:1px solid #000;
+	width:100%;
+}
+.auth-login .login-head{border-bottom:1px solid #000000;margin-bottom:0;}
+.al-button{
+	position:absolute;
+	bottom:40px;
+}
+.auth-login .btn-login:Hover{background-color:#000;color:#FFFFFF;}
+@media(max-width:992px){
+	.al-button{
+		width:100%;
+	}
+}
+
+.al-input-dialog{
+	color:#fff;
+	border-radius:4px;
+	background:rgba(0,0,0,0.5);
+	position:absolute;
+	top:49px;
+	z-index:1;
+	min-height:40px;
+}
+.al-input-dialog p{padding-left:10px; padding-top:10px; padding-right:10px;}
+.dialog-right{left:52%;}
+.arrow-up {
+	position:absolute;
+	top:-7;left:5;
+	width: 0; 
+	height: 0; 
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	border-bottom: 7px solid rgba(0,0,0,0.5);
+}
