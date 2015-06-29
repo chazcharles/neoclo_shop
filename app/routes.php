@@ -51,10 +51,11 @@ Route::post('/adm/login','SiteController@adm_login_post');
 Route::get('/adm/dashboard', array('before' => 'auth', 'uses' => 'SiteController@adm_dashboard'));/*filter untuk url /admin/dashboard akan dieksekusi oleh filter auth*/
 Route::group(array('before' => 'auth'), function() /*semua yang ada digrup ini akan difilter oleh fungsi auth*/
 {
-	Route::get('/adm/ajax/userlist', function()
-	{
-		return View::make('admin.ajax.userlist');
-	});
+	Route::get('/adm/ajax/userlist', 'SiteController@adm_usrlist');
+	Route::get('/adm/user/delete/{id}', 'SiteController@adm_usrlist_delete');
+	Route::get('/adm/user/edit/{id}', 'SiteController@adm_usrlist_edit');
+	Route::get('/adm/ajax/modal/delete',function(){return View::make('admin.ajax.userdel-modal');});
+	Route::get('/adm/ajax/modal/edit',function(){return View::make('admin.ajax.useredit-modal');});
 });
 
 

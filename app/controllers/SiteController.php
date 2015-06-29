@@ -140,6 +140,8 @@ class SiteController extends BaseController{
 		return Redirect::to("auth")
 				->with('message','Thank you for registering!');
 	}
+
+	//////////////////////// 	ADMIN     \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 	
 	public function adm_login()
 	{
@@ -191,10 +193,32 @@ class SiteController extends BaseController{
 	{
 		return View::make('admin.dashboard');
 	}
+
+	public function adm_usrlist()
+	{
+		$userlist = Users::all();
+		return View::make('admin.ajax.userlist',['usrlist' => $userlist]);	
+	}
 	
+	public function adm_usrlist_delete($_usrid)
+	{
+
+		try{$usrid = Crypt::decrypt($_usrid);} //decrypt ID dari product_view_list.blade.php
+		catch (Illuminate\Encryption\DecryptException $e){App::error($e,404);} // jika hasil error maka lempar ke home
+		$user = Users::find($usrid);
+		$user->delete();
+		$userlist = Users::all();
+		return View::make('admin.ajax.userlist',['usrlist' => $userlist]);	
+	}
+
+	public function adm_usrlist_edit($usrid)
+	{
+		$userlist = Users::all();
+		return View::make('admin.ajax.userlist',['usrlist' => $userlist]);
+	}
+
 	public function _Hash($word)
 	{
 		return Hash::make($word);
 	}
-	
 }

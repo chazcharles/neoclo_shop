@@ -17,7 +17,6 @@ $('.parent').click(function (e){
 	}
 	/*ketika dirinya sendiri diklik maka hanya bisa slide down supaya tidak akan menutup lagi*/
 	$(this).children().children().children().slideDown(); //fungsi menampilkan menu tree ketika diklik
-	
 });	
 
 $(".toggle-btn").click(function(e){

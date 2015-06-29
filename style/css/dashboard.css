@@ -125,6 +125,7 @@ a{text-decoration:none !important;outline: 0 !important;}
     #page-content-wrapper {
         padding: 20px;
         position: relative;
+        min-width: 1000px;
     }
 
     #wrapper.toggled #page-content-wrapper {
@@ -158,6 +159,7 @@ a{text-decoration:none !important;outline: 0 !important;}
 	background-color:#CCCCCC;
 	height:40px;
 	width:100%;
+    min-width: 1000px;
 }
 
 .nav .toggle-btn{
@@ -186,3 +188,67 @@ a{text-decoration:none !important;outline: 0 !important;}
 	border-left:1px solid #999;
 	border-right:1px solid #FFF;
 }
+
+.t-head{
+    background-color:#fff;
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+.t-content-even{
+    background-color:#F0F0F0;
+    padding-bottom:10px;
+    padding-top:10px;
+}
+.t-content-odd{
+    background-color:#F8F8F8;
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+#myModal2 .modal-dialog{ /*modal for userlist*/
+    padding-top: 150px;
+}
+
+/*===========  MODAL EDIT =============*/
+.usredit-txt-input{
+    width: 100%;
+}
+
+.usredit-row{
+    margin-top: 15px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+.usredit-row div, .usredit-row input{height:100%;}
+.usredit-row div p{margin-top: 5px;}
+
+/*===== user edit gender dropdown =======*/
+.usredit-row .btn-group{
+    height:30px;
+    width:100%;
+    border:1px solid #CCCCCC;
+}
+.usredit-row .btn-group a{
+    width:100%;
+    color:#666;
+    height:40px;
+    padding-top:4px;
+}
+.usredit-row .usr-edt-combo-input{width:0;height:0; visibility:hidden;}
+.usredit-row .btn-group a{text-align:left;}
+.usredit-row .btn-group .caret {
+    display:block;
+    position:absolute;
+    right:10px;
+    top:11px;
+}
+.auth-register-view .usr-edt-dropdown {
+  width:100%;
+  background: rgba(255, 255, 255, 1)!important;
+}
+/*===== |END| user edit gender dropdown =======*/
+
+.a1{background-color: #999;}
+.a2{background-color: #333;}

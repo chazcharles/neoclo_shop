@@ -18,6 +18,11 @@ adm-login
 
 adm dashboard
 - buat admin dashboard (progress)
+- buat userlist:
+	- table userlist (done)
+	- delete userlist (done)
+	- edit userlist menggunakan modal(progress)
+	- paginate userlist (progress)
 
 login auth
 - ubah login dan logout attempt, session akan dibuat otomatis oleh laravel menggunakan Auth::login (done)

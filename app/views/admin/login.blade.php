@@ -10,7 +10,7 @@
     
     
     <div class="row auth-container">
-    	<div class="col-md-12 auth-head"><p>ADMIN LOGIN PAGE</p></div>
+    	<div class="col-md-12 auth-head"><p>ADMIN LOGIN</p></div>
     	<div class="col-md-12 auth-login">
         	<form method="post">
                 <div class="col-md-12"><p class="login-head">LOGIN</p></div>
